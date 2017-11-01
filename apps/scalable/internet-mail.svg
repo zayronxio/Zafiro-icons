@@ -60,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2374369"
-     inkscape:cx="19.459519"
-     inkscape:cy="19.375435"
+     inkscape:zoom="4.9497476"
+     inkscape:cx="-10.286563"
+     inkscape:cy="20.409041"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -87,7 +87,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -154,18 +154,15 @@
          d="M 5,17 43,47 H 5 Z"
          style="fill:#80828a;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
     </g>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot867"
+    <g
+       aria-label="@"
+       transform="matrix(0.46247767,0,0,0.46247767,34.377475,2.3535165)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';letter-spacing:0px;word-spacing:0px;fill:#fcfcfc;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.46247767,0,0,0.46247767,34.377475,2.3535165)"><flowRegion
-         id="flowRegion869"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#fcfcfc;fill-opacity:1"><rect
-           id="rect871"
-           width="44"
-           height="58"
-           x="-40"
-           y="8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Condensed';-inkscape-font-specification:'Ubuntu Condensed, ';fill:#fcfcfc;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara873">@</flowPara></flowRoot>  </g>
+       id="flowRoot867">
+      <path
+         d="m -15.76,43.579688 q -1.52,0 -2.52,-0.44 -0.96,-0.44 -1.56,-1.12 -0.8,0.76 -1.68,1.08 -0.84,0.32 -1.88,0.32 -3.24,0 -4.92,-2.36 -1.68,-2.36 -1.68,-6.92 0,-4.28 1.88,-6.76 1.92,-2.52 5.36,-2.52 1.68,0 3,0.36 1.36,0.32 2.08,0.64 v 11.76 q 0,1.68 0.4,2.44 0.4,0.72 1.56,0.72 1.64,0 2.28,-2.2 0.68,-2.2 0.68,-6.32 0,-2.64 -0.6,-4.92 -0.56,-2.28 -1.84,-3.96 -1.24,-1.72 -3.24,-2.68 -1.96,-0.96 -4.76,-0.96 -2.48,0 -4.52,0.96 -2.04,0.96 -3.52,2.84 -1.44,1.84 -2.24,4.52 -0.8,2.68 -0.8,6.12 0,3.48 0.76,6.2 0.76,2.68 2.16,4.52 1.4,1.84 3.4,2.76 2.04,0.96 4.56,0.96 1.84,0 3.08,-0.32 1.28,-0.32 1.72,-0.48 l 0.44,2.76 q -0.28,0.12 -0.84,0.24 -0.52,0.16 -1.24,0.28 -0.72,0.16 -1.56,0.24 -0.8,0.08 -1.64,0.08 -3.08,0 -5.64,-1.04 -2.56,-1 -4.44,-3.12 -1.88,-2.08 -2.92,-5.32 -1.04,-3.28 -1.04,-7.76 0,-4.32 1.08,-7.56 1.12,-3.24 3.04,-5.36 1.92,-2.16 4.52,-3.24 2.6,-1.08 5.56,-1.08 3.16,0 5.68,1.08 2.56,1.04 4.32,3.08 1.8,2 2.76,4.88 0.96,2.84 0.96,6.44 0,5.48 -1.6,8.32 -1.6,2.84 -4.6,2.84 z m -7.24,-3.04 q 1.24,0 2.08,-0.72 -0.12,-0.56 -0.16,-1.12 -0.04,-0.56 -0.04,-1.12 v -9.6 q -0.2,-0.08 -0.6,-0.16 -0.4,-0.08 -0.96,-0.08 -1.92,0 -2.84,1.56 -0.88,1.56 -0.88,4.84 0,2.92 0.76,4.68 0.76,1.72 2.64,1.72 z"
+         style=""
+         id="path837" />
+    </g>
+  </g>
 </svg>
