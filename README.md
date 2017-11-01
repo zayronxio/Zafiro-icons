@@ -8,3 +8,10 @@
 **REMEMBER the icon pack is in alpha phase, it may not work as expected**
 
 
+### Download and testing
+
+   - For testing you can clone the repository or download directly. Clone using your terminal.
+
+   - In a Terminal run: 
+    `git clone https://github.com/zayronxio/zarifo-icons.git`
+
