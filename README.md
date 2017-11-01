@@ -3,6 +3,8 @@
 
 
 
-*Zafiro icons is a icon pack for desktop xfce4 or lxde, with clean and simple design lines, inspired by "limitless theme" for miui 9, and flat desing. it is distributed under [L.I.M.A license](https://limalicense.com/getlicense/)*
+##*Zafiro icons is a icon pack for desktop xfce4 or lxde, with clean and simple design lines, inspired by "limitless theme" for miui 9, and flat desing. it is distributed under [L.I.M.A license](https://limalicense.com/getlicense/)*
+
+**REMEMBER the icon pack is in alpha phase, it may not work as expected**
 
 
