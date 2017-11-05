@@ -15,7 +15,7 @@
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="system-file-manager.svg">
+   sodipodi:docname="system-search.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -115,5 +115,27 @@
        id="rect824"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccssssccsssccsc" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 16.923828,18.144531 A 10.571428,10.571428 0 0 0 6.644532,28.244141 10.571428,10.571428 0 0 0 16.720703,39.271485 10.571428,10.571428 0 0 0 27.765625,29.216797 l 0.0039,-0.07617 A 10.571428,10.571428 0 0 0 17.652344,18.150391 10.571428,10.571428 0 0 0 16.923828,18.144531 Z M 17,21 a 7.7142849,7.7142849 0 0 1 0.533203,0.0039 7.7142849,7.7142849 0 0 1 7.38086,8.019532 l -0.002,0.05664 A 7.7142849,7.7142849 0 0 1 16.851563,36.417969 7.7142849,7.7142849 0 0 1 9.5,28.371094 7.7142849,7.7142849 0 0 1 17,21 Z"
+       id="path823"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 25,34 12.124356,7"
+       id="path837"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.6443662;fill-rule:nonzero;stroke:none;stroke-width:6.00074625;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.56690141"
+       id="path839"
+       sodipodi:type="arc"
+       sodipodi:cx="17.00139"
+       sodipodi:cy="23.951969"
+       sodipodi:rx="2.0002487"
+       sodipodi:ry="2.0002487"
+       sodipodi:start="0.047800379"
+       sodipodi:end="0.040497747"
+       sodipodi:open="true"
+       d="m 18.999354,24.047545 a 2.0002487,2.0002487 0 0 1 -2.089892,1.902559 2.0002487,2.0002487 0 0 1 -1.906371,-2.086415 2.0002487,2.0002487 0 0 1 2.082932,-1.910177 2.0002487,2.0002487 0 0 1 1.913976,2.079441" />
   </g>
 </svg>

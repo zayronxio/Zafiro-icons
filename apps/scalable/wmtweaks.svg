@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
+   width="48"
+   height="48"
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="configuracion.svg">
+   sodipodi:docname="wmtweaks.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -48,18 +48,24 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30935922"
-     inkscape:cx="280.44058"
-     inkscape:cy="328.65478"
+     inkscape:zoom="1.75"
+     inkscape:cx="27.56911"
+     inkscape:cy="23.884358"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="723"
+     inkscape:window-height="712"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid826"
+       spacingx="0.2"
+       spacingy="0.2" />
+  </sodipodi:namedview>
   <metadata
      id="metadata3908">
     <rdf:RDF>
@@ -75,8 +81,7 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     transform="translate(0,464)">
+     inkscape:groupmode="layer">
     <g
        id="layer1-2"
        inkscape:label="Layer 1"
@@ -90,38 +95,35 @@
          height="52.013824"
          width="52.591755" />
     </g>
-    <g
-       id="g4610"
-       transform="matrix(0.84087845,0,0,0.84087845,41.020093,-38.561338)">
-      <rect
-         ry="14.851974"
-         y="-421.51889"
-         x="37.981743"
-         height="439.61838"
-         width="439.61838"
-         id="rect4604"
-         style="fill:#555a68;fill-opacity:1;stroke:none;stroke-width:2.03509903;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
-      <rect
-         transform="rotate(-45)"
-         style="fill:#616776;fill-opacity:1;stroke:none;stroke-width:2.03509903;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-         id="rect4606"
-         width="439.61838"
-         height="439.61838"
-         x="105.10683"
-         y="-180.15378"
-         ry="14.851974" />
-    </g>
+    <rect
+       style="opacity:1;fill:#515357;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.67996538;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect824"
+       width="34"
+       height="34"
+       x="-41.009861"
+       y="7"
+       ry="1.7171717"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-45)"
+       ry="1.7171717"
+       y="16.948099"
+       x="-17.006973"
+       height="34"
+       width="34"
+       id="rect832"
+       style="opacity:1;fill:#6f7177;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.67996538;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
-       style="fill:#2a2c33;fill-opacity:1;stroke:none;stroke-width:1.66100001;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-       id="path4612"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7944296;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path834"
        sodipodi:type="arc"
-       sodipodi:cx="257.79092"
-       sodipodi:cy="-208.17468"
-       sodipodi:rx="55.760422"
-       sodipodi:ry="55.760422"
+       sodipodi:cx="24.038887"
+       sodipodi:cy="23.798977"
+       sodipodi:rx="4.9651842"
+       sodipodi:ry="4.9651842"
        sodipodi:start="0.047800379"
        sodipodi:end="0.040497747"
        sodipodi:open="true"
-       d="m 313.48766,-205.51033 a 55.760422,55.760422 0 0 1 -58.2594,53.03715 55.760422,55.760422 0 0 1 -53.14342,-58.16247 55.760422,55.760422 0 0 1 58.06535,-53.24952 55.760422,55.760422 0 0 1 53.35544,57.96804" />
+       d="M 28.9984,24.036224 A 4.9651842,4.9651842 0 0 1 23.810694,28.758915 4.9651842,4.9651842 0 0 1 19.078541,23.57984 4.9651842,4.9651842 0 0 1 24.248968,18.838239 4.9651842,4.9651842 0 0 1 29,24.000001" />
   </g>
 </svg>
