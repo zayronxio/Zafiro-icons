@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="folder-music.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="855"
+     inkscape:window-height="480"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="14.75"
+     inkscape:cx="2.5988505"
+     inkscape:cy="9.4098589"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg14" />
+  <g
+     transform="translate(-28,-1036.3622)"
+     id="g2" />
+  <path
+     d="m 5.9236452,12.293082 a 2.5553233,2.554377 0 1 1 -5.11064656,0 2.5553233,2.554377 0 1 1 5.11064656,0 z"
+     style="fill:#6e7684;fill-opacity:1;stroke:none;stroke-width:1.43407774"
+     id="path4"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 14.440594,12.293082 a 2.5553233,2.554377 0 1 1 -5.1106462,0 2.5553233,2.554377 0 1 1 5.1106462,0 z"
+     style="fill:#6e7684;fill-opacity:1;stroke:none;stroke-width:1.43407774"
+     id="path6"
+     inkscape:connector-curvature="0" />
+  <rect
+     width="1.7033899"
+     height="10.220339"
+     x="4.2202559"
+     y="2.9237287"
+     rx="0.85169494"
+     style="fill:#6e7684;fill-opacity:1;stroke:none;stroke-width:0.85169494"
+     id="rect8" />
+  <rect
+     rx="0.85169494"
+     y="2.9237287"
+     x="12.737206"
+     height="10.220339"
+     width="1.7033899"
+     style="fill:#6e7684;fill-opacity:1;stroke:none;stroke-width:0.85169494"
+     id="rect10" />
+  <rect
+     width="10.220339"
+     height="4.2584748"
+     x="4.2202559"
+     rx="1.7033899"
+     style="fill:#6e7684;fill-opacity:1;stroke:none;stroke-width:0.85169494"
+     id="rect12"
+     y="1.2203391" />
+</svg>
