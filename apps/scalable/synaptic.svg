@@ -15,7 +15,7 @@
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="system-software-installer.svg">
+   sodipodi:docname="synaptic.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -154,7 +154,7 @@
          width="52.591755" />
     </g>
     <rect
-       style="fill:#939dac;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="fill:#916f6f;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect4604"
        width="43"
        height="43"
