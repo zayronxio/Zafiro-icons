@@ -85,7 +85,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.9497475"
-     inkscape:cx="23.13259"
+     inkscape:cx="-19.293817"
      inkscape:cy="25.445152"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -111,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,7 +133,7 @@
          width="52.591755" />
     </g>
     <rect
-       style="fill:#41d3d5;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="fill:#6297d6;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect4604"
        width="43"
        height="43"
@@ -152,19 +152,19 @@
     <g
        aria-label="a-Z"
        transform="matrix(0.28591229,0,0,0.28591229,28.757496,17.221408)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Bebas;-inkscape-font-specification:Bebas;letter-spacing:0px;word-spacing:0px;fill:#6297d6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot1452">
       <path
          d="m -43.25,-4.0707071 -1.306818,8.1818182 h -5.596591 l 6.051136,-35.5965911 h 7.386364 L -30.75,4.1111111 h -5.625 l -1.278409,-8.1818182 z m 2.8125,-19.2613639 -1.988636,14.0340912 h 3.977272 z"
-         style="fill:#4dc7c9;fill-opacity:1"
+         style="fill:#6297d6;fill-opacity:1"
          id="path1460" />
       <path
          d="m -27.028409,-16.371843 h 15.909091 v 5.397727 h -15.909091 z"
-         style="fill:#4dc7c9;fill-opacity:1"
+         style="fill:#6297d6;fill-opacity:1"
          id="path1462" />
       <path
          d="m 8.2627841,-31.48548 v 5.369318 L -1.6235795,-1.229798 H 8.2627841 V 4.1111111 H -7.4190341 V -1.229798 l 9.9147727,-24.886364 h -9.9147727 v -5.369318 z"
-         style="fill:#4dc7c9;fill-opacity:1"
+         style="fill:#6297d6;fill-opacity:1"
          id="path1464" />
     </g>
   </g>
