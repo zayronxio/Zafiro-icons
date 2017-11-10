@@ -1,4 +1,4 @@
-![zafiro icons](https://image.ibb.co/kSDFcb/rect5169.png)
+![zafiro icons](https://orig00.deviantart.net/7bbd/f/2017/313/b/e/zafiro_icons_alpha_0_0_5_by_zayronxio-dbstuh6.png)
 
 
 
