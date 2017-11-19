@@ -4,7 +4,7 @@ Comment=Theme for Lxde or Xfce, by Adolfo Silerio (zayronxio)
 Inherits=Numix
 
 # Directory list
-Directories=apps/scalable,apps/22,apps/16,places/16,places/24,places/48,status/22,
+Directories=apps/scalable,apps/22,apps/16,places/16,places/24,places/48,status/22,mimetypes/48,
 
 [apps/scalable]
 Size=48
@@ -42,3 +42,8 @@ Type=Scalable
 Size=22
 Context=Status
 Type=Threshold
+
+[mimetypes/48]
+Size=48
+Context=mimetypes
+Type=Scalable
