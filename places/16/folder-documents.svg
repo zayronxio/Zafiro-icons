@@ -659,6 +659,114 @@
          id="feGaussianBlur3176-32-2" />
     </filter>
     <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath846-2">
+      <rect
+         ry="1.4527029"
+         y="3"
+         x="2"
+         height="43"
+         width="43"
+         id="rect848-7"
+         style="fill:#f16e5d;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+    </clipPath>
+    <clipPath
+       id="clipPath838-0"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="1.0866355"
+         y="7.8309994"
+         x="4.9372187"
+         height="32.164406"
+         width="38.023293"
+         id="rect840-9"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16189085;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+    </clipPath>
+    <filter
+       id="filter3174-34-9"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-32-20" />
+    </filter>
+    <filter
+       id="filter3174-2-0-7"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-1-0-59" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-4-7-228">
+      <feGaussianBlur
+         id="feGaussianBlur3176-2-4-97"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-44-3"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-3-6" />
+    </filter>
+    <filter
+       id="filter3174-2-2-1"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-1-3-2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-4-4-9">
+      <feGaussianBlur
+         id="feGaussianBlur3176-2-3-3"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-34-6-19"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-32-5-47" />
+    </filter>
+    <filter
+       id="filter3174-2-0-6-84"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-1-0-4-50" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-4-7-2-3">
+      <feGaussianBlur
+         id="feGaussianBlur3176-2-4-8-6"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-44-1-1"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-3-3-06" />
+    </filter>
+    <filter
+       id="filter3174-2-2-8-3"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-1-3-0-20" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-4-4-2-6">
+      <feGaussianBlur
+         id="feGaussianBlur3176-2-3-0-15"
+         stdDeviation="1.71" />
+    </filter>
+    <clipPath
        id="clipPath846-29"
        clipPathUnits="userSpaceOnUse">
       <rect
@@ -697,1046 +805,452 @@
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-7-289"
+       id="filter3174-4-7-28"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-7" />
+         id="feGaussianBlur3176-2-4-973" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-44-36">
+       id="filter3174-44-6">
       <feGaussianBlur
-         id="feGaussianBlur3176-3-12"
+         id="feGaussianBlur3176-3-1"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-2-9">
+       id="filter3174-2-2-2">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-3-3"
+         id="feGaussianBlur3176-1-3-93"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-4-194"
+       id="filter3174-4-4-19"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-78" />
+         id="feGaussianBlur3176-2-3-4" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-34-6-4">
+       id="filter3174-34-6-7">
       <feGaussianBlur
-         id="feGaussianBlur3176-32-5-50"
+         id="feGaussianBlur3176-32-5-8"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-0-6-3">
+       id="filter3174-2-0-6-4">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-0-4-61"
+         id="feGaussianBlur3176-1-0-4-503"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-7-2-0"
+       id="filter3174-4-7-2-61"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-8-63" />
+         id="feGaussianBlur3176-2-4-8-0" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-44-1-2">
+       id="filter3174-44-1-6">
       <feGaussianBlur
-         id="feGaussianBlur3176-3-3-061"
+         id="feGaussianBlur3176-3-3-3"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-2-8-5">
+       id="filter3174-2-2-8-2">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-3-0-54"
+         id="feGaussianBlur3176-1-3-0-06"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-4-2-7"
+       id="filter3174-4-4-2-1"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-0-6" />
+         id="feGaussianBlur3176-2-3-0-5" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-34-87-4">
+       id="filter3174-34-87-2">
       <feGaussianBlur
-         id="feGaussianBlur3176-32-92-4"
+         id="feGaussianBlur3176-32-92-5"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-0-3-3">
+       id="filter3174-2-0-3-4">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-0-7-0"
+         id="feGaussianBlur3176-1-0-7-7"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-7-5-7"
+       id="filter3174-4-7-5-4"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-9-8" />
+         id="feGaussianBlur3176-2-4-9-4" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-44-2-6">
+       id="filter3174-44-2-3">
       <feGaussianBlur
-         id="feGaussianBlur3176-3-2-8"
+         id="feGaussianBlur3176-3-2-0"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-2-89-8">
+       id="filter3174-2-2-89-7">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-3-7-4"
+         id="feGaussianBlur3176-1-3-7-8"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-4-3-3"
+       id="filter3174-4-4-3-6"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-6-1" />
+         id="feGaussianBlur3176-2-3-6-8" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-34-6-1-4">
+       id="filter3174-34-6-1-8">
       <feGaussianBlur
-         id="feGaussianBlur3176-32-5-2-9"
+         id="feGaussianBlur3176-32-5-2-4"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-0-6-9-2">
+       id="filter3174-2-0-6-9-3">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-0-4-3-0"
+         id="feGaussianBlur3176-1-0-4-3-1"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-7-2-19-6"
+       id="filter3174-4-7-2-19-4"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-8-4-8" />
+         id="feGaussianBlur3176-2-4-8-4-9" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-44-1-7-9">
+       id="filter3174-44-1-7-2">
       <feGaussianBlur
-         id="feGaussianBlur3176-3-3-8-2"
+         id="feGaussianBlur3176-3-3-8-0"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-2-8-4-66">
+       id="filter3174-2-2-8-4-6">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-3-0-50-4"
+         id="feGaussianBlur3176-1-3-0-50-8"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-4-2-36-95"
+       id="filter3174-4-4-2-36-9"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-0-1-0" />
+         id="feGaussianBlur3176-2-3-0-1-2" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-4-4-2-9-4">
+       id="filter3174-4-4-2-9-6">
       <feGaussianBlur
-         id="feGaussianBlur3176-2-3-0-4-8"
+         id="feGaussianBlur3176-2-3-0-4-6"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-2-2-8-1-7"
+       id="filter3174-2-2-8-1-4"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-0-5-1" />
+         id="feGaussianBlur3176-1-3-0-5-9" />
     </filter>
     <filter
-       id="filter3174-44-1-9-7"
+       id="filter3174-44-1-9-5"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-3-3-95-2" />
+         id="feGaussianBlur3176-3-3-95-0" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-4-7-2-1-7">
+       id="filter3174-4-7-2-1-4">
       <feGaussianBlur
-         id="feGaussianBlur3176-2-4-8-31-2"
+         id="feGaussianBlur3176-2-4-8-31-8"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-2-0-6-6-2"
+       id="filter3174-2-0-6-6-7"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-4-9-6" />
+         id="feGaussianBlur3176-1-0-4-9-1" />
     </filter>
     <filter
-       id="filter3174-34-6-13-1"
+       id="filter3174-34-6-13-7"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-32-5-5-0" />
+         id="feGaussianBlur3176-32-5-5-2" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-4-4-20-6">
+       id="filter3174-4-4-20-7">
       <feGaussianBlur
-         id="feGaussianBlur3176-2-3-8-1"
+         id="feGaussianBlur3176-2-3-8-2"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-2-2-3-5"
+       id="filter3174-2-2-3-2"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-6-9" />
+         id="feGaussianBlur3176-1-3-6-6" />
     </filter>
     <filter
-       id="filter3174-44-9-4"
+       id="filter3174-44-9-1"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-3-14-9" />
+         id="feGaussianBlur3176-3-14-0" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-4-7-54-0">
+       id="filter3174-4-7-54-6">
       <feGaussianBlur
-         id="feGaussianBlur3176-2-4-76-9"
+         id="feGaussianBlur3176-2-4-76-1"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-2-0-68-1"
+       id="filter3174-2-0-68-5"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-5-7" />
+         id="feGaussianBlur3176-1-0-5-9" />
     </filter>
     <filter
-       id="filter3174-34-8-7"
+       id="filter3174-34-8-4"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-32-4-1" />
+         id="feGaussianBlur3176-32-4-9" />
     </filter>
     <filter
-       id="filter3174-4-15"
+       id="filter3174-4-0"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-97" />
+         id="feGaussianBlur3176-2-9" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-7">
+       id="filter3174-2-1">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-6"
+         id="feGaussianBlur3176-1-7"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-73">
+       id="filter3174-7">
       <feGaussianBlur
-         id="feGaussianBlur3176-6"
+         id="feGaussianBlur3176-11"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-4-2-3-56"
+       id="filter3174-4-4-2-3-5"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-0-9-3" />
+         id="feGaussianBlur3176-2-3-0-9-9" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-2-8-16-9">
+       id="filter3174-2-2-8-16-7">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-3-0-0-4"
+         id="feGaussianBlur3176-1-3-0-0-7"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-44-1-5-8">
+       id="filter3174-44-1-5-6">
       <feGaussianBlur
-         id="feGaussianBlur3176-3-3-0-1"
+         id="feGaussianBlur3176-3-3-0-7"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-7-2-2-2"
+       id="filter3174-4-7-2-2-3"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-8-5-9" />
+         id="feGaussianBlur3176-2-4-8-5-6" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-0-6-67-3">
+       id="filter3174-2-0-6-67-5">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-0-4-5-9"
+         id="feGaussianBlur3176-1-0-4-5-6"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-34-6-6-0">
+       id="filter3174-34-6-6-3">
       <feGaussianBlur
-         id="feGaussianBlur3176-32-5-1-8"
+         id="feGaussianBlur3176-32-5-1-9"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-4-8-8"
+       id="filter3174-4-4-8-4"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-7-5" />
+         id="feGaussianBlur3176-2-3-7-8" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-2-5-0">
+       id="filter3174-2-2-5-1">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-3-8-9"
+         id="feGaussianBlur3176-1-3-8-2"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-44-8-6">
+       id="filter3174-44-8-9">
       <feGaussianBlur
-         id="feGaussianBlur3176-3-0-38"
+         id="feGaussianBlur3176-3-0-3"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-7-6-5"
+       id="filter3174-4-7-6-9"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-1-6" />
+         id="feGaussianBlur3176-2-4-1-0" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-0-5-1">
+       id="filter3174-2-0-5-8">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-0-1-1"
+         id="feGaussianBlur3176-1-0-1-8"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-34-5-59">
+       id="filter3174-34-5-5">
       <feGaussianBlur
-         id="feGaussianBlur3176-32-9-8"
+         id="feGaussianBlur3176-32-9-0"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-1-4"
+       id="filter3174-4-1-9"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-0-8" />
+         id="feGaussianBlur3176-2-0-6" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-8-1">
+       id="filter3174-2-8-3">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-4-0"
+         id="feGaussianBlur3176-1-4-8"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-3-3">
+       id="filter3174-3-5">
       <feGaussianBlur
-         id="feGaussianBlur3176-0-0"
+         id="feGaussianBlur3176-0-6"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-4-2-4-4"
+       id="filter3174-4-4-2-4-1"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-0-7-4" />
+         id="feGaussianBlur3176-2-3-0-7-1" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-2-8-6-4">
+       id="filter3174-2-2-8-6-5">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-3-0-2-4"
+         id="feGaussianBlur3176-1-3-0-2-9"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-44-1-96-7">
+       id="filter3174-44-1-96-8">
       <feGaussianBlur
-         id="feGaussianBlur3176-3-3-2-6"
+         id="feGaussianBlur3176-3-3-2-4"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-7-2-6-3"
+       id="filter3174-4-7-2-6-8"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-8-3-17" />
+         id="feGaussianBlur3176-2-4-8-3-1" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-0-6-8-5">
+       id="filter3174-2-0-6-8-0">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-0-4-6-9"
+         id="feGaussianBlur3176-1-0-4-6-3"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-34-6-8-6">
+       id="filter3174-34-6-8-0">
       <feGaussianBlur
-         id="feGaussianBlur3176-32-5-4-2"
+         id="feGaussianBlur3176-32-5-4-4"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-4-1-1"
+       id="filter3174-4-4-1-4"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-02-7" />
+         id="feGaussianBlur3176-2-3-02-4" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-2-4-8">
+       id="filter3174-2-2-4-4">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-3-9-5"
+         id="feGaussianBlur3176-1-3-9-7"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-44-14-7">
+       id="filter3174-44-14-6">
       <feGaussianBlur
-         id="feGaussianBlur3176-3-8-4"
+         id="feGaussianBlur3176-3-8-3"
          stdDeviation="1.71" />
     </filter>
     <filter
-       id="filter3174-4-7-22-18"
+       id="filter3174-4-7-22-1"
        color-interpolation-filters="sRGB">
       <feGaussianBlur
          stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-0-5" />
+         id="feGaussianBlur3176-2-4-0-7" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-2-0-65-9">
+       id="filter3174-2-0-65-5">
       <feGaussianBlur
-         id="feGaussianBlur3176-1-0-9-7"
+         id="feGaussianBlur3176-1-0-9-9"
          stdDeviation="1.71" />
     </filter>
     <filter
        color-interpolation-filters="sRGB"
-       id="filter3174-34-1-5">
+       id="filter3174-34-1-6">
       <feGaussianBlur
-         id="feGaussianBlur3176-32-2-3"
+         id="feGaussianBlur3176-32-2-2"
          stdDeviation="1.71" />
-    </filter>
-    <clipPath
-       id="clipPath846-2"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         style="fill:#f16e5d;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-         id="rect848-7"
-         width="43"
-         height="43"
-         x="2"
-         y="3"
-         ry="1.4527029" />
-    </clipPath>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath838-0">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16189085;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
-         id="rect840-9"
-         width="38.023293"
-         height="32.164406"
-         x="4.9372187"
-         y="7.8309994"
-         ry="1.0866355" />
-    </clipPath>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-34-9">
-      <feGaussianBlur
-         id="feGaussianBlur3176-32-20"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-2-0-7">
-      <feGaussianBlur
-         id="feGaussianBlur3176-1-0-59"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-4-7-228"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-97" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-44-3">
-      <feGaussianBlur
-         id="feGaussianBlur3176-3-6"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-2-2-1">
-      <feGaussianBlur
-         id="feGaussianBlur3176-1-3-2"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-4-4-9"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-3" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-34-6-19">
-      <feGaussianBlur
-         id="feGaussianBlur3176-32-5-47"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-2-0-6-84">
-      <feGaussianBlur
-         id="feGaussianBlur3176-1-0-4-50"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-4-7-2-3"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-8-6" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-44-1-1">
-      <feGaussianBlur
-         id="feGaussianBlur3176-3-3-06"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-2-2-8-3">
-      <feGaussianBlur
-         id="feGaussianBlur3176-1-3-0-20"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-4-4-2-6"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-0-15" />
-    </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath846-7">
-      <rect
-         ry="1.4527029"
-         y="3"
-         x="2"
-         height="43"
-         width="43"
-         id="rect848-0"
-         style="fill:#f16e5d;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
-    </clipPath>
-    <clipPath
-       id="clipPath838-9"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         ry="1.0866355"
-         y="7.8309994"
-         x="4.9372187"
-         height="32.164406"
-         width="38.023293"
-         id="rect840-3"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16189085;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
-    </clipPath>
-    <filter
-       id="filter3174-34-2"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-0" />
-    </filter>
-    <filter
-       id="filter3174-2-0-75"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-92" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-28">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-973"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-44-6"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-1" />
-    </filter>
-    <filter
-       id="filter3174-2-2-2"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-93" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-19">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-4"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-34-6-7"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-5-8" />
-    </filter>
-    <filter
-       id="filter3174-2-0-6-4"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-4-503" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-2-61">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-8-0"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-44-1-6"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-3-3" />
-    </filter>
-    <filter
-       id="filter3174-2-2-8-2"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-0-06" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-2-1">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-0-5"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-34-87-2"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-92-5" />
-    </filter>
-    <filter
-       id="filter3174-2-0-3-4"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-7-7" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-5-4">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-9-4"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-44-2-3"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-2-0" />
-    </filter>
-    <filter
-       id="filter3174-2-2-89-7"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-7-8" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-3-6">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-6-8"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-34-6-1-8"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-5-2-4" />
-    </filter>
-    <filter
-       id="filter3174-2-0-6-9-3"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-4-3-1" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-2-19-4">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-8-4-9"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-44-1-7-2"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-3-8-0" />
-    </filter>
-    <filter
-       id="filter3174-2-2-8-4-6"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-0-50-8" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-2-36-9">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-0-1-2"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-4-4-2-9-6"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-0-4-6" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-2-2-8-1-4">
-      <feGaussianBlur
-         id="feGaussianBlur3176-1-3-0-5-9"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-44-1-9-5">
-      <feGaussianBlur
-         id="feGaussianBlur3176-3-3-95-0"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-4-7-2-1-4"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-8-31-8" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-2-0-6-6-7">
-      <feGaussianBlur
-         id="feGaussianBlur3176-1-0-4-9-1"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-34-6-13-7">
-      <feGaussianBlur
-         id="feGaussianBlur3176-32-5-5-2"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-4-4-20-7"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-2-3-8-2" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-2-2-3-2">
-      <feGaussianBlur
-         id="feGaussianBlur3176-1-3-6-6"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-44-9-1">
-      <feGaussianBlur
-         id="feGaussianBlur3176-3-14-0"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-4-7-54-6"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-2-4-76-1" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-2-0-68-5">
-      <feGaussianBlur
-         id="feGaussianBlur3176-1-0-5-9"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-34-8-4">
-      <feGaussianBlur
-         id="feGaussianBlur3176-32-4-9"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-0">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-9"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-1"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-7" />
-    </filter>
-    <filter
-       id="filter3174-7"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-11" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-2-3-5">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-0-9-9"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-2-8-16-7"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-0-0-7" />
-    </filter>
-    <filter
-       id="filter3174-44-1-5-6"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-3-0-7" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-2-2-3">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-8-5-6"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-0-6-67-5"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-4-5-6" />
-    </filter>
-    <filter
-       id="filter3174-34-6-6-3"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-5-1-9" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-8-4">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-7-8"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-2-5-1"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-8-2" />
-    </filter>
-    <filter
-       id="filter3174-44-8-9"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-0-3" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-6-9">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-1-0"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-0-5-8"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-1-8" />
-    </filter>
-    <filter
-       id="filter3174-34-5-5"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-9-0" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-1-9">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-0-6"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-8-3"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-4-8" />
-    </filter>
-    <filter
-       id="filter3174-3-5"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-0-6" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-2-4-1">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-0-7-1"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-2-8-6-5"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-0-2-9" />
-    </filter>
-    <filter
-       id="filter3174-44-1-96-8"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-3-2-4" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-2-6-8">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-8-3-1"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-0-6-8-0"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-4-6-3" />
-    </filter>
-    <filter
-       id="filter3174-34-6-8-0"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-5-4-4" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-1-4">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-02-4"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-2-4-4"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-9-7" />
-    </filter>
-    <filter
-       id="filter3174-44-14-6"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-8-3" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-22-1">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-0-7"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-2-0-65-5"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-9-9" />
-    </filter>
-    <filter
-       id="filter3174-34-1-6"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-2-2" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -1753,8 +1267,8 @@
      id="namedview16"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="6.6949153"
-     inkscape:cy="7.8068182"
+     inkscape:cx="9.5421602"
+     inkscape:cy="10.975089"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1763,40 +1277,22 @@
     <inkscape:grid
        type="xygrid"
        id="grid817"
-       spacingx="0.1"
-       spacingy="0.1" />
+       spacingx="0.5"
+       spacingy="0.5" />
   </sodipodi:namedview>
   <g
      transform="translate(-28,-1036.3622)"
      id="g2" />
-  <rect
-     style="opacity:1;fill:#6e7684;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect988"
-     width="9.499999"
-     height="12.5"
-     x="3.5"
-     y="1.5"
-     ry="1" />
-  <rect
-     style="opacity:1;fill:#fdf2ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect990"
-     width="3.5"
-     height="4.5"
-     x="4.5"
-     y="3"
-     ry="0" />
-  <rect
-     style="opacity:1;fill:#fdf2ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect992"
-     width="3"
-     height="1.5"
-     x="9"
-     y="6" />
-  <rect
-     style="opacity:1;fill:#fdf2ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     id="rect994"
-     width="7.5"
-     height="1.5"
-     x="4.5"
-     y="9" />
+  <path
+     style="opacity:1;fill:#6e7684;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.51181102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 5,3 v 12 h 9 V 3 Z m 1.5,1.5 h 6 v 9 h -6 z"
+     id="rect1058"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccc" />
+  <path
+     id="path1063"
+     d="M 6,11 H 4.082843 L 4,2 h 6 v 1.5 l 1.5,-0.060134 V 0.5 h -9 v 12 h 3.0609754 z"
+     style="opacity:1;fill:#6e7684;fill-opacity:0.81000001;fill-rule:nonzero;stroke:none;stroke-width:1.51181102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
 </svg>
