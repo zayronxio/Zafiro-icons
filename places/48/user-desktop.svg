@@ -15,7 +15,7 @@
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="user-desktop.svg">
+   sodipodi:docname="gnome-ccdesktop.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -48,9 +48,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2374369"
-     inkscape:cx="16.061466"
-     inkscape:cy="8.320862"
+     inkscape:zoom="1.75"
+     inkscape:cx="13.432288"
+     inkscape:cy="8.5167647"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -114,28 +114,10 @@
        d="M 1.5,25.5 H 18 L 21,18 h 25.5 v 28.5 h -45 z"
        id="path847"
        inkscape:connector-curvature="0" />
-    <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#6f8a91;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect957"
-       width="13.5"
-       height="10.5"
-       x="18"
-       y="30"
-       ry="2" />
-    <rect
-       style="opacity:1;fill:#6f8a91;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect959"
-       width="7.5"
-       height="3"
-       x="21"
-       y="40.5"
-       ry="0" />
-    <rect
-       style="opacity:1;fill:#6f8a91;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect961"
-       width="3"
-       height="3"
-       x="21"
-       y="33" />
+    <path
+       style="opacity:1;fill:#6f8a91;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.69279194;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 17.112426,31.289256 V 41.652892 H 32.343195 V 31.289256 Z m 8.201184,0.942149 H 30 V 36 h -4.68639 z m -5.857989,4.710743 h 4.68639 v 3.768595 h -4.68639 z"
+       id="rect22"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
