@@ -15,7 +15,7 @@
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="lxkeymap.svg">
+   sodipodi:docname="activity-log-manager.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -64,6 +64,26 @@
          id="rect840"
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16189085;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath859">
+      <path
+         sodipodi:nodetypes="sssccss"
+         inkscape:connector-curvature="0"
+         id="path861"
+         d="M 3.4527029,3 H 43.547297 C 44.352095,3 45,3.6479055 45,4.4527029 V 12.998215 L 2,13.149738 V 4.4527029 C 2,3.6479055 2.6479055,3 3.4527029,3 Z"
+         style="fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath901">
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path903"
+         d="m 8,24 c 14,8 22,8 30,0 C 32,14 20,14 8,24 Z"
+         style="fill:#ffffff;fill-opacity:0.67253526;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -72,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9497476"
-     inkscape:cx="-8.6585427"
-     inkscape:cy="25.237423"
+     inkscape:zoom="1.2374369"
+     inkscape:cx="10.192815"
+     inkscape:cy="22.004045"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -121,53 +141,23 @@
          width="52.591755" />
     </g>
     <rect
-       style="fill:#917c6f;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="fill:#916f8a;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect4604"
        width="43"
        height="43"
        x="2"
        y="3"
        ry="1.4527029" />
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:0.3759124;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect26"
-       width="20"
-       height="22"
-       x="10"
-       y="8"
-       ry="0" />
-    <rect
-       ry="0"
-       y="18"
-       x="17"
-       height="22"
-       width="22"
-       id="rect874"
-       style="opacity:1;fill:#fefefe;fill-opacity:0.37591242;fill-rule:nonzero;stroke:none;stroke-width:2.75;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:#fdfdfd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.20000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect872"
-       width="17.6"
-       height="17.6"
-       x="19.200001"
-       y="20.200001"
-       ry="0" />
-    <g
-       aria-label="a"
-       transform="matrix(0.45916741,0,0,0.45916741,27.298028,17.57934)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Century Schoolbook L';-inkscape-font-specification:'Century Schoolbook L';letter-spacing:0px;word-spacing:0px;fill:#8d97a5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="flowRoot876">
-      <path
-         d="m 16.08,28.755659 c 0,-2.52 -0.44,-3.8 -1.6,-4.76 -1.32,-1.04 -3.28,-1.6 -5.84,-1.6 -4.48,0 -7.8,2.12 -7.8,5 0,1.52 0.92,2.48 2.32,2.48 3.8322903,-1.958863 3.6787698,-6.059405 8.12,-4.76 0.76,0.64 1.04,1.6 1.04,3.4 v 1.56 c -4.2,0.72 -5.48,1.04 -7.44,1.8 -3.44,1.28 -5.12,3.16 -5.12,5.68 0,2.84 2.28,4.68 5.8,4.68 2.76,0 5.24,-1.12 6.96,-3.16 0.64,2.04 1.64,2.84 3.52,2.84 1.8,0 3.68,-1.16 3.68,-2.32 0,-0.28 -0.2,-0.48 -0.4,-0.48 -0.16,0 -0.32,0.04 -0.6,0.16 -0.64,0.24 -0.8,0.28 -1.12,0.28 -1.12,0 -1.52,-0.76 -1.52,-2.76 z m -3.76,4.88 c 0,2.4 -0.12,2.96 -0.8,4 -1,1.48 -2.84,2.48 -4.56,2.48 -1.8,0 -3.16,-1.32 -3.16,-3.12 1.9982787,-4.833433 6.273829,-4.42313 8.52,-3.36 z"
-         id="path884"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="scssccsccsscssscsssccscc" />
-    </g>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#8d97a5;stroke-width:1.4666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 28.733333,26.066667 2.933334,-2.2 2.933333,2.2"
-       id="path1152"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.67253524"
+       d="m 8,24 c 14,8 22,8 30,0 C 32,14 20,14 8,24 Z"
+       id="path895"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       clip-path="url(#clipPath901)"
+       d="M 24 16 A 8 8 0 0 0 16 24 A 8 8 0 0 0 24 32 A 8 8 0 0 0 32 24 A 8 8 0 0 0 24 16 z M 24.298828 21.302734 A 2.5 2.5 0 0 1 26.798828 23.802734 A 2.5 2.5 0 0 1 24.298828 26.302734 A 2.5 2.5 0 0 1 21.798828 23.802734 A 2.5 2.5 0 0 1 24.298828 21.302734 z "
+       id="path897" />
   </g>
 </svg>
