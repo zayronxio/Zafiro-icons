@@ -15,7 +15,7 @@
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="preferences-color.svg">
+   sodipodi:docname="color.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -238,7 +238,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -262,24 +262,24 @@
     <g
        id="layer2"
        inkscape:label="circulo"
-       style="display:inline;opacity:0.98999999;fill:#6ebbdb;fill-opacity:1"
+       style="display:inline;opacity:0.98999999;fill:#5989b6;fill-opacity:1"
        transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255648)">
       <path
-         style="fill:#6ebbdb;fill-opacity:1;stroke:none;stroke-width:1.4909519"
+         style="fill:#5989b6;fill-opacity:1;stroke:none;stroke-width:1.4909519"
          d="M 44.322082,27.405077 A 19.729762,19.729765 0 0 1 24.59232,47.134842 19.729762,19.729765 0 0 1 4.8625579,27.405077 19.729762,19.729765 0 0 1 24.59232,7.6753138 19.729762,19.729765 0 0 1 44.322082,27.405077 Z"
          id="path3005"
          inkscape:connector-curvature="0" />
     </g>
     <g
        transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255648)"
-       style="display:inline;opacity:0.98999999;fill:#6ebbdb;fill-opacity:1"
+       style="display:inline;opacity:0.98999999;fill:#59b6a4;fill-opacity:1"
        inkscape:label="circulo"
        id="g876">
       <path
          inkscape:connector-curvature="0"
          id="path874"
          d="m 44.322082,27.405077 c 0,10.896448 -8.833315,19.729765 -19.729762,19.729765 V 7.6753138 c 10.896446,0 19.729761,8.8333152 19.729762,19.7297632 z"
-         style="fill:#6edb8d;fill-opacity:1;stroke:none;stroke-width:1.4909519"
+         style="fill:#59b6a4;fill-opacity:1;stroke:none;stroke-width:1.4909519"
          sodipodi:nodetypes="sccs" />
     </g>
     <g
@@ -325,7 +325,7 @@
        id="layer4-7"
        transform="matrix(1.9515901,0,0,1.9515901,51.592327,-390.43714)" />
     <path
-       style="fill:#ff656d;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.46350366"
        d="M 19.5,24 24,7.5 28.5,24 Z"
        id="path872"
        inkscape:connector-curvature="0"
