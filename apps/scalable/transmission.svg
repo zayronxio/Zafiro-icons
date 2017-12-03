@@ -48,15 +48,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9497475"
-     inkscape:cx="23.086974"
-     inkscape:cy="24.046463"
+     inkscape:zoom="14"
+     inkscape:cx="29.76248"
+     inkscape:cy="25.642026"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-height="718"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
@@ -74,7 +74,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -110,16 +110,18 @@
          ry="13.48568" />
     </g>
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:0.52554744;fill-rule:nonzero;stroke:none;stroke-width:3.02362204;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.52554746;fill-rule:nonzero;stroke:none;stroke-width:3.02362204;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect27"
-       width="8"
-       height="17"
-       x="20"
-       y="15"
-       ry="0.252538" />
+       width="11"
+       height="11"
+       x="19"
+       y="20"
+       ry="0" />
     <path
-       style="fill:#f6f6f6;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 24 8 L 16 16 L 32 16 L 24 8 z M 16 31 L 24 39 L 32 31 L 16 31 z "
-       id="path23" />
+       style="fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24,10 -9,9 h 19 z m -9,22 9,9 10,-9 z"
+       id="path23"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
   </g>
 </svg>
