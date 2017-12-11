@@ -1,10 +1,10 @@
 [Icon Theme]
 Name=Zafiro-icons
 Comment=Theme for Lxde or Xfce, by Adolfo Silerio (zayronxio)
-Inherits=Numix
+Inherits=gnome,hicolor,Numix
 
 # Directory list
-Directories=apps/scalable,apps/22,apps/16,places/16,places/24,places/48,status/22,devices/48,devices/22,mimetypes/48,panel/22,actions/16,actions/22,categories/22,
+Directories=apps/scalable,apps/22,apps/16,places/16,places/24,places/48,status/22,devices/48,devices/22,mimetypes/48,panel/22,actions/16,actions/22,actions/48,categories/22,emblems/48,
 
 [apps/scalable]
 Size=48
@@ -73,7 +73,17 @@ Size=22
 Context=actions
 Type=fixes
 
+[actions/48]
+Size=48
+Context=actions
+Type=scalable
+
 [categories/22]
 Size=22
 Context=categories
 Type=fixes
+
+[emblems/48]
+Size=48
+Context=emblems
+Type=scalable
