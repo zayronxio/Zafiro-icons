@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,38 +51,7 @@
        id="grid4506" />
   </sodipodi:namedview>
   <path
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
-     d="m 5,5.857422 c -1.108,0 -1.8433051,0.903136 -2,2 l -1,7 c -0.1566949,1.096864 0.892,2 2,2 h 1 c 1.6342085,0 2.6188615,-1.999479 4.5839844,-3.857422 0.8895786,-0.164783 1.7715596,-0.174121 2.6601566,-0.0293 1.901114,2.136475 2.469157,3.886722 4.755859,3.886722 h 1 c 1.108,0 2.131855,-0.899874 2,-2 l -0.839844,-7 c -0.131855,-1.1001264 -0.892,-2 -2,-2 H 16.001287 15 c -0.851979,0 -1.42313,0.6643463 -1.9972,1.0128471 C 12,7.4790403 10.404708,7.4648951 8.9950689,6.890923 8.3847231,6.6424043 7.8320022,5.857422 7,5.857422 H 5.9984228 Z"
-     id="rect4508"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="sssssccssccccsssscs" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.71733618;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
-     id="path4519"
-     sodipodi:type="arc"
-     sodipodi:cx="14.255477"
-     sodipodi:cy="9.6146021"
-     sodipodi:rx="1.5127119"
-     sodipodi:ry="1.5127119"
-     sodipodi:start="0.047800379"
-     sodipodi:end="0.040497747"
-     sodipodi:open="true"
-     d="m 15.766461,9.6868828 a 1.5127119,1.5127119 0 0 1 -1.580506,1.4388332 1.5127119,1.5127119 0 0 1 -1.441716,-1.577877 1.5127119,1.5127119 0 0 1 1.575242,-1.4445942 1.5127119,1.5127119 0 0 1 1.447468,1.572602" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 5,8.5 V 10 H 3.5 v 2 H 5 v 1.5 H 7 V 12 H 8.5 V 10 H 7 V 8.5 Z"
-     id="path4525"
-     inkscape:connector-curvature="0" />
-  <path
-     d="m 18.675848,12.256356 a 1.5127119,1.5127119 0 0 1 -1.580506,1.438833 1.5127119,1.5127119 0 0 1 -1.441716,-1.577877 1.5127119,1.5127119 0 0 1 1.575242,-1.444594 1.5127119,1.5127119 0 0 1 1.447467,1.572602"
-     sodipodi:open="true"
-     sodipodi:end="0.040497747"
-     sodipodi:start="0.047800379"
-     sodipodi:ry="1.5127119"
-     sodipodi:rx="1.5127119"
-     sodipodi:cy="12.184075"
-     sodipodi:cx="17.164864"
-     sodipodi:type="arc"
-     id="path4530"
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.71733618;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241" />
+     style="fill:#535964;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
+     d="M 5 5.8574219 C 3.892 5.8574219 3.1566949 6.7605579 3 7.8574219 L 2 14.857422 C 1.8433051 15.954286 2.892 16.857422 4 16.857422 L 5 16.857422 C 6.6342085 16.857422 7.6188615 14.857943 9.5839844 13 C 10.473563 12.835217 11.355544 12.825882 12.244141 12.970703 C 14.145255 15.107178 14.713298 16.857422 17 16.857422 L 18 16.857422 C 19.108 16.857422 20.131855 15.957548 20 14.857422 L 19.160156 7.8574219 C 19.028301 6.7572955 18.268156 5.8574219 17.160156 5.8574219 L 16.001953 5.8574219 L 15 5.8574219 C 14.148021 5.8574219 13.576023 6.5225929 13.001953 6.8710938 C 11.999153 7.479865 10.40378 7.4645971 8.9941406 6.890625 C 8.3837948 6.6421063 7.8320022 5.8574219 7 5.8574219 L 5.9980469 5.8574219 L 5 5.8574219 z M 14.214844 8.1015625 A 1.5127119 1.5127119 0 0 1 14.320312 8.1035156 A 1.5127119 1.5127119 0 0 1 15.767578 9.6757812 L 15.765625 9.6875 A 1.5127119 1.5127119 0 0 1 14.185547 11.125 A 1.5127119 1.5127119 0 0 1 12.744141 9.546875 A 1.5127119 1.5127119 0 0 1 14.214844 8.1015625 z M 5 8.5 L 7 8.5 L 7 10 L 8.5 10 L 8.5 12 L 7 12 L 7 13.5 L 5 13.5 L 5 12 L 3.5 12 L 3.5 10 L 5 10 L 5 8.5 z M 17.125 10.671875 A 1.5127119 1.5127119 0 0 1 17.228516 10.671875 A 1.5127119 1.5127119 0 0 1 18.675781 12.246094 L 18.675781 12.255859 A 1.5127119 1.5127119 0 0 1 17.095703 13.695312 A 1.5127119 1.5127119 0 0 1 15.654297 12.117188 A 1.5127119 1.5127119 0 0 1 17.125 10.671875 z "
+     id="rect4508" />
 </svg>

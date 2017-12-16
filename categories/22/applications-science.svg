@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="3.7926636"
-     inkscape:cx="10.501979"
+     inkscape:cx="-29.443562"
      inkscape:cy="7.5481899"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -51,18 +51,18 @@
        id="grid4506" />
   </sodipodi:namedview>
   <path
-     style="fill:none;stroke:#5fbcd3;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#535964;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.61494255"
+     d="m 7,12 h 7 l 6,8 H 2 Z"
+     id="path4802"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;stroke:#535964;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 7,2 v 8 L 2,20 H 20 L 14,10 V 2"
      id="path4793"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccc" />
   <path
-     style="fill:#5fbcd3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.57055217"
-     d="m 7,12 h 7 l 6,8 H 2 Z"
-     id="path4802"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#5fbcd3;fill-opacity:0.66871164;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#535964;fill-opacity:0.43678162;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path4804"
      sodipodi:type="arc"
      sodipodi:cx="9.5017138"
@@ -84,5 +84,5 @@
      sodipodi:cx="11.001348"
      sodipodi:type="arc"
      id="path4806"
-     style="fill:#5fbcd3;fill-opacity:0.66871164;stroke:none;stroke-width:1.66632462;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:#535964;fill-opacity:0.37931034;stroke:none;stroke-width:1.66632462;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

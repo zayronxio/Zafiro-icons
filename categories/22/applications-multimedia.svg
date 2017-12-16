@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,7 +51,7 @@
        id="grid4506" />
   </sodipodi:namedview>
   <rect
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
+     style="fill:#535964;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
      id="rect4574"
      width="12"
      height="4"
@@ -59,7 +59,7 @@
      y="4"
      ry="2" />
   <path
-     style="fill:#5fbcd3;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+     style="fill:#535964;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
      d="M 6,6 V 17 H 8 V 6 Z"
      id="path4576"
      inkscape:connector-curvature="0" />
@@ -67,9 +67,9 @@
      inkscape:connector-curvature="0"
      id="path4578"
      d="m 16,6 v 11 h 2 V 6 Z"
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:#535964;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
   <path
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:2.78723192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
+     style="fill:#535964;fill-opacity:1;stroke:none;stroke-width:2.78723192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
      id="path4580"
      sodipodi:type="arc"
      sodipodi:cx="5.0547485"
@@ -91,5 +91,5 @@
      sodipodi:cx="15.052598"
      sodipodi:type="arc"
      id="path4582"
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:2.78723192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241" />
+     style="fill:#535964;fill-opacity:1;stroke:none;stroke-width:2.78723192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241" />
 </svg>

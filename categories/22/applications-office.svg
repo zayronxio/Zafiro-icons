@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      id="namedview6"
      showgrid="true"
      inkscape:zoom="7.5853273"
-     inkscape:cx="16.526166"
+     inkscape:cx="-3.4466043"
      inkscape:cy="8.8165506"
      inkscape:window-x="0"
      inkscape:window-y="24"
@@ -51,15 +51,15 @@
        id="grid4506" />
   </sodipodi:namedview>
   <path
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
-     d="M 8,4 C 7.446,4 7,4.446 7,5 v 15 c 0,0.554 0.446,1 1,1 h 9 c 0.554,0 1,-0.446 1,-1 V 5 C 18,4.446 17.554,4 17,4 Z m 2,2 h 3 l 3,3 v 9 c 0,0.554 -0.446,1 -1,1 H 10 C 9.446,19 9,18.554 9,18 V 7 C 9,6.446 9.446,6 10,6 Z"
-     id="rect4766"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssssssssssccssssss" />
-  <path
-     style="fill:#5fbcd3;fill-opacity:0.51533742;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
+     style="fill:#535964;fill-opacity:0.4770115;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
      d="m 4,2 h 9 c 0.554,0 1,0.446 1,1 V 5.1271186 L 8.160573,5.1199435 8.0169492,19 H 4 C 3.446,19 3,18.554 3,18 V 3 C 3,2.446 3.446,2 4,2 Z"
      id="rect4768"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ssscccssss" />
+  <path
+     style="fill:#535964;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147241"
+     d="M 8,4 C 7.446,4 7,4.446 7,5 v 15 c 0,0.554 0.446,1 1,1 h 9 c 0.554,0 1,-0.446 1,-1 V 5 C 18,4.446 17.554,4 17,4 Z m 2,2 h 3 l 3,3 v 9 c 0,0.554 -0.446,1 -1,1 H 10 C 9.446,19 9,18.554 9,18 V 7 C 9,6.446 9.446,6 10,6 Z"
+     id="rect4766"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssssssssssccssssss" />
 </svg>

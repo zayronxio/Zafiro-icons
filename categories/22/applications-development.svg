@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,7 +51,7 @@
        id="grid4506" />
   </sodipodi:namedview>
   <rect
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#535964;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect4870"
      width="3.4751573"
      height="12.038409"
@@ -59,13 +59,13 @@
      y="9.1816254"
      transform="rotate(-45.287568)" />
   <path
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#535964;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="m 20.984166,18.327313 a 4,4 0 0 0 -0.912886,-3.73579 4,4 0 0 0 -5.645806,-0.254116 4,4 0 0 0 -0.265165,5.645806 l 0.02072,0.02072 a 4,4 0 0 0 3.97333,1.150426 L 15,18 17.828427,15.171573 Z"
      id="path4872"
      inkscape:connector-curvature="0" />
   <path
      id="path4877"
      d="M 0.84425975,3.8442598 A 4,4 0 0 0 1.7571455,7.5800487 4,4 0 0 0 7.4029512,7.8341652 4,4 0 0 0 7.6681165,2.1883591 L 7.6474006,2.1676431 A 4,4 0 0 0 3.6740679,1.0172137 L 6.8284271,4.1715729 4,7 Z"
-     style="fill:#5fbcd3;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#535964;fill-opacity:1;stroke:none;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      inkscape:connector-curvature="0" />
 </svg>
