@@ -31,3 +31,7 @@ It is my knowledge that in the other categories there are some missing to add.*
 
 ## previews
 
+![apps](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/apps.png)
+![places](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/places.png)
+![mimetypes](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/mimetypes.png)
+![others](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/others.png)
