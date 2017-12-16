@@ -9,6 +9,10 @@ each icon is given the time necessary to achieve a good job
 at the moment I only accept report of icons of missing applications,
 It is my knowledge that in the other categories there are some missing to add.*
 
+## donations
+te gusta mi trabajo y deseas ayudarme, invitame un cafe, dejo una liga para que dones por medio de paypal si asi tu lo deseas
+
+[donate](https://www.paypal.me/zayronxio)
 
 ### Download and testing
 
