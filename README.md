@@ -10,7 +10,7 @@ at the moment I only accept report of icons of missing applications,
 It is my knowledge that in the other categories there are some missing to add.*
 
 ## donations
-te gusta mi trabajo y deseas ayudarme, invitame un cafe, dejo una liga para que dones por medio de paypal si asi tu lo deseas
+you like my job and you want to help me, invite me to a cafe, I leave a league so you can donate through paypal if you wish
 
 [donate](https://www.paypal.me/zayronxio)
 
