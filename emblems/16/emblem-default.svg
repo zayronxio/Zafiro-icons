@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
+   width="16"
+   height="16"
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -52,16 +52,13 @@
     <clipPath
        id="clipPath3881"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="translate(-412,-17)"
-         d="m 643,152.5 a 103.5,103.5 0 1 1 -207,0 103.5,103.5 0 1 1 207,0 z"
-         sodipodi:ry="103.5"
-         sodipodi:rx="103.5"
-         sodipodi:cy="152.5"
-         sodipodi:cx="539.5"
          id="path3883"
          style="fill:#008dff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         sodipodi:type="arc" />
+         cx="539.5"
+         cy="152.5"
+         r="103.5" />
     </clipPath>
     <linearGradient
        id="linearGradient4019">
@@ -102,8 +99,8 @@
          offset="1" />
     </linearGradient>
     <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174">
+       id="filter3174"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur3176"
          stdDeviation="1.71" />
@@ -163,8 +160,8 @@
          id="stop3855" />
     </linearGradient>
     <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-0">
+       id="filter3174-0"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur3176-9"
          stdDeviation="1.71" />
@@ -207,16 +204,13 @@
     <clipPath
        id="clipPath3866"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="matrix(0.68724124,0,0,0.68724124,-521.35527,-47.661719)"
-         sodipodi:type="arc"
          style="fill:#44abb1;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="path3868"
-         sodipodi:cx="1132"
-         sodipodi:cy="449"
-         sodipodi:rx="312"
-         sodipodi:ry="312"
-         d="m 1444,449 a 312,312 0 1 1 -624,0 312,312 0 1 1 624,0 z" />
+         cx="1132"
+         cy="449"
+         r="312" />
     </clipPath>
     <linearGradient
        id="linearGradient4118"
@@ -254,30 +248,24 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3847">
-      <path
+      <circle
          transform="matrix(0.88586957,0,0,0.88586957,-24.010886,495.98978)"
-         d="m 582.65601,342.29437 a 260.2153,260.2153 0 1 1 -520.430607,0 260.2153,260.2153 0 1 1 520.430607,0 z"
-         sodipodi:ry="260.2153"
-         sodipodi:rx="260.2153"
-         sodipodi:cy="342.29437"
-         sodipodi:cx="322.4407"
          id="path3849"
          style="fill:url(#linearGradient3843);fill-opacity:1;fill-rule:evenodd;stroke:none"
-         sodipodi:type="arc" />
+         cx="322.4407"
+         cy="342.29437"
+         r="260.2153" />
     </clipPath>
     <clipPath
        id="clipPath3344"
        clipPathUnits="userSpaceOnUse">
-      <path
-         sodipodi:type="arc"
+      <circle
          style="fill:#0eb474;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="path3346"
-         sodipodi:cx="322.4407"
-         sodipodi:cy="342.29437"
-         sodipodi:rx="260.2153"
-         sodipodi:ry="260.2153"
-         d="m 582.65601,342.29437 a 260.2153,260.2153 0 1 1 -520.430607,0 260.2153,260.2153 0 1 1 520.430607,0 z"
-         transform="matrix(0.09964174,0,0,0.09964174,-8.1283951,-10.106867)" />
+         transform="matrix(0.09964174,0,0,0.09964174,-8.1283951,-10.106867)"
+         cx="322.4407"
+         cy="342.29437"
+         r="260.2153" />
     </clipPath>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -296,9 +284,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="11.880357"
-     inkscape:cy="26.430618"
+     inkscape:zoom="11.313709"
+     inkscape:cx="10.882751"
+     inkscape:cy="6.7458242"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -329,7 +317,8 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,-32)">
     <g
        id="layer1-2"
        inkscape:label="Layer 1"
@@ -347,7 +336,7 @@
        id="layer2"
        inkscape:label="circulo"
        style="display:inline;opacity:0.98999999;fill:#59b6a4;fill-opacity:1"
-       transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255648)">
+       transform="matrix(0.35910889,0,0,0.35910889,-1.4878027,30.380785)">
       <path
          style="fill:#59b6a4;fill-opacity:1;stroke:none;stroke-width:1.4909519"
          d="M 44.322082,27.405077 A 19.729762,19.729765 0 0 1 24.59232,47.134842 19.729762,19.729765 0 0 1 4.8625579,27.405077 19.729762,19.729765 0 0 1 24.59232,7.6753138 19.729762,19.729765 0 0 1 44.322082,27.405077 Z"
@@ -397,8 +386,8 @@
        id="layer4-7"
        transform="matrix(1.9515901,0,0,1.9515901,51.592327,-390.43714)" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 10.5,25.5 9,9 L 36,12"
+       style="fill:none;stroke:#ffffff;stroke-width:1.56086135;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.1904497,40.69045 6,43.5 11.150842,36.476125"
        id="path77"
        inkscape:connector-curvature="0" />
   </g>

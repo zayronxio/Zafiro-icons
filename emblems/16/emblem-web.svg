@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="48"
-   height="48"
+   width="16"
+   height="16"
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="emblem-important.svg">
+   sodipodi:docname="emblem-web.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -52,16 +52,13 @@
     <clipPath
        id="clipPath3881"
        clipPathUnits="userSpaceOnUse">
-      <path
+      <circle
          transform="translate(-412,-17)"
-         d="m 643,152.5 a 103.5,103.5 0 1 1 -207,0 103.5,103.5 0 1 1 207,0 z"
-         sodipodi:ry="103.5"
-         sodipodi:rx="103.5"
-         sodipodi:cy="152.5"
-         sodipodi:cx="539.5"
          id="path3883"
          style="fill:#008dff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         sodipodi:type="arc" />
+         cx="539.5"
+         cy="152.5"
+         r="103.5" />
     </clipPath>
     <linearGradient
        id="linearGradient4019">
@@ -102,8 +99,8 @@
          offset="1" />
     </linearGradient>
     <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174">
+       id="filter3174"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur3176"
          stdDeviation="1.71" />
@@ -163,8 +160,8 @@
          id="stop3855" />
     </linearGradient>
     <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-0">
+       id="filter3174-0"
+       style="color-interpolation-filters:sRGB">
       <feGaussianBlur
          id="feGaussianBlur3176-9"
          stdDeviation="1.71" />
@@ -239,9 +236,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9497475"
-     inkscape:cx="28.510392"
-     inkscape:cy="23.208887"
+     inkscape:zoom="28"
+     inkscape:cx="9.811316"
+     inkscape:cy="7.4187923"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -272,7 +269,8 @@
   <g
      id="layer1"
      inkscape:label="Layer 1"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(0,-32)">
     <g
        id="layer1-2"
        inkscape:label="Layer 1"
@@ -289,10 +287,10 @@
     <g
        id="layer2"
        inkscape:label="circulo"
-       style="display:inline;opacity:0.98999999;fill:#b34545;fill-opacity:1"
-       transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255648)">
+       style="display:inline;opacity:0.98999999;fill:#6098bf;fill-opacity:1"
+       transform="matrix(0.3899969,0,0,0.3899969,-1.4915933,29.316989)">
       <path
-         style="fill:#b34545;fill-opacity:1;stroke:none;stroke-width:1.4909519"
+         style="fill:#6098bf;fill-opacity:1;stroke:none;stroke-width:1.4909519"
          d="M 44.322082,27.405077 A 19.729762,19.729765 0 0 1 24.59232,47.134842 19.729762,19.729765 0 0 1 4.8625579,27.405077 19.729762,19.729765 0 0 1 24.59232,7.6753138 19.729762,19.729765 0 0 1 44.322082,27.405077 Z"
          id="path3005"
          inkscape:connector-curvature="0" />
@@ -340,17 +338,11 @@
        id="layer4-7"
        transform="matrix(1.9515901,0,0,1.9515901,51.592327,-390.43714)" />
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 19.5,7.5 h 9 L 27,30 h -6 z"
-       id="path1111"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect1113"
-       width="9"
-       height="7.5"
-       x="19.5"
-       y="33" />
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.4000001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99647887"
+       d="m 17,6 v 1 h -1 v 1 h -2 v 1 h -1 v 1 1 h -1 v 1 1 h 2 v 1 1 h 1 v 1 1 1 1 h 1 v 1 h 1 v -1 -1 h 1 v -1 h 1 v -1 -1 h 1 v -1 -1 -1 -1 -1 h 1 V 9 8 H 20 V 9 H 19 V 8 H 18 V 7 h 1 V 6 Z M 10,7 V 8 H 9 v 1 h 1 v 1 1 1 h 1 v -1 -1 h 1 V 9 8 h 1 V 7 Z M 9,9 H 8 v 1 1 h 1 v -1 z m 29,0 v 1 1 h 1 V 10 9 Z m 1,2 v 1 h 1 V 11 Z M 4,12 v 1 h 1 v -1 z m 4,0 v 1 h 1 v -1 z m 1,1 v 1 h 1 v -1 z m -3,0 v 1 h 1 v -1 z m 31,0 v 1 h 1 1 v 1 h -2 v -1 h -1 v 1 h -1 v 1 2 h -1 v -1 -1 -1 h -1 v 1 1 h -1 -1 v 1 h -1 v 1 h -1 -1 v -1 h 1 v -1 h -1 v -1 h -1 v 1 h -1 v 1 h 1 v 1 1 1 h -1 v 1 h -2 v 1 h -1 v 1 h -1 v 1 h 2 v -1 h 0.599609 v 0.199219 h 0.201172 v 0.201172 H 25 v 0.199218 h 0.199219 v 0.201172 h 0.201172 V 25 h 0.199218 v -0.199219 h 0.201172 V 24.599609 H 25.599609 25.400391 V 24.400391 H 25.199219 V 24.199219 H 25 V 24 h 1 v 1 h 1 v -1 h 2 v 1 h -1 -1 v 1 h 1 v 1 h 1 v 1 h 1 v 1 h 1 1 v -1 h -1 v -1 h 1 1 v 1 h 1 v 1 h 1 v 1 h 1 v -1 -1 h 2 v 1 h 1 v -1 h 2 v -1 h 1 v -1 -1 h 1 v -1 h 1 v -1 h 1 v -1 h -1 v -1 h 1 v -1 h 2 v -1 h 2 v 1 h 1 v -1 h 1 v -1 -1 h -4 v -1 h -1 v -1 h -1 v 1 h -2 v -1 h -3 v -1 -1 h -1 -1 z m 12,7 h -1 v 1 h 1 z m -1,1 h -1 v 1 h 1 z m -9,8 v 1 h 1 V 29 Z M 29,28 h -1 v -1 h -3 v -1 h -3 v 1 h -1 v 1 1 1 1 h 1 2 v 1 h 1 v 1 1 1 1 h 1 v 1 h 2 v -1 -1 h 1 v -1 -1 -1 h 1 v -1 h 1 v -1 h -2 v -1 z m -3.400391,-3 v 0.199219 h 0.201172 V 25 Z M 26,18 h -1 v 1 h 1 z m -1,1 h -1 v 1 h 1 z M 4,14 v 1 h 1 v -1 z m 1,1 v 1 H 6 7 V 15 H 6 Z m 5,0 v 1 h 1 1 v -1 h -1 z m 2,1 v 1 1 h 1 v -1 -1 z m -14,0 v 1 1 1 1 h 1 1 1 1 v 1 h 1 v 1 1 h 1 v 1 1 1 h 1 v 1 1 h 1 v 1 h 1 v 1 h 1 1 1 V 29 28 H 9 v 1 H 8 v -1 -1 h 1 1 1 v -1 -1 h 1 v -1 -1 h 1 1 v -1 -1 h -1 v -1 h -1 v -1 h -1 v 1 1 1 H 10 V 21 H 9 8 v -1 h 1 v -1 -1 h 1 1 V 17 H 10 9 V 16 H 8 v 1 H 7 6 5 4 V 16 H 3 v 1 H 2 1 V 16 H 0 -1 Z m 12,14 v 1 h 1 v 1 h -1 v 1 h 1 v 1 h 1 v 1 1 1 1 1 1 h -1 v 1 h 1 v 1 h 1 v -1 -1 -1 -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 v -1 h 1 V 33 H 17 V 32 H 16 15 V 31 H 14 V 30 H 13 12 11 Z M 20,18 v 1 h 1 v -1 z m 2,3 v 1 h 1 v -1 z m 8,2 h 1 v 1 1 1 h -1 v -1 -1 z m 12,11 v 1 h -1 v 1 1 h 4 v 1 h 1 v -1 h 1 v -1 h -1 v -1 -1 h -1 v 1 h -1 v -1 z"
+       id="rect843"
+       clip-path="url(#clipPath80)"
+       transform="matrix(0.33902311,0,0,0.33902311,0.0293067,31.86833)" />
   </g>
 </svg>
