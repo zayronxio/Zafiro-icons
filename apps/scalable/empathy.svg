@@ -14,7 +14,7 @@
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
    sodipodi:docname="empathy.svg">
   <defs
      id="defs3905">
@@ -80,17 +80,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9497475"
-     inkscape:cx="-16.400686"
-     inkscape:cy="17.761794"
+     inkscape:zoom="7"
+     inkscape:cx="11.705988"
+     inkscape:cy="25.079444"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-height="740"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -180,38 +180,30 @@
        id="path839"
        inkscape:connector-curvature="0" />
     <rect
-       style="opacity:1;fill:#5995b6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#68b0dd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect865"
-       width="40"
-       height="28"
-       x="4"
-       y="10"
+       width="46"
+       height="33"
+       x="1"
+       y="5"
        ry="1" />
     <path
-       style="fill:#84b0c9;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="M 4,10 V 45 L 44,10 Z"
-       id="path867"
-       inkscape:connector-curvature="0"
-       clip-path="url(#clipPath877)" />
+       style="fill:#94c7e8;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 2 5 C 1.446 5 1 5.446 1 6 L 1 46 C 1 46.284065 1.1196391 46.537041 1.3085938 46.71875 L 46.691406 5.28125 C 46.511851 5.1085795 46.269935 5 46 5 L 2 5 z "
+       id="path33" />
     <ellipse
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.14514589;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path869"
-       cx="11.931375"
-       cy="22"
-       rx="2.5455165"
-       ry="4" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path844"
+       cx="9"
+       cy="20.5"
+       rx="3"
+       ry="5.5" />
     <ellipse
-       ry="4"
-       rx="2.5455165"
-       cy="22"
-       cx="36.172935"
-       id="ellipse871"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.14514589;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
-       d="m 16,27 c 5.24104,1.292115 10.568522,1.374033 16,0 0,0 -5.018576,4 -8,4 -2.981424,0 -8,-4 -8,-4 z"
-       id="path873"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccac" />
+       ry="5.5"
+       rx="3"
+       cy="20.5"
+       cx="38.900513"
+       id="ellipse846"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
   </g>
 </svg>
