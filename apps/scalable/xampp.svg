@@ -15,7 +15,7 @@
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
-   sodipodi:docname="simplescreenrecorder.svg">
+   sodipodi:docname="xampp.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -52,6 +52,18 @@
          id="rect848"
          style="fill:#f16e5d;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
     </clipPath>
+    <clipPath
+       id="clipPath838"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         ry="1.0866355"
+         y="7.8309994"
+         x="4.9372187"
+         height="32.164406"
+         width="38.023293"
+         id="rect840"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16189085;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -60,9 +72,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999999"
-     inkscape:cx="1.3304229"
-     inkscape:cy="23.59416"
+     inkscape:zoom="3.5000001"
+     inkscape:cx="-66.918909"
+     inkscape:cy="18.511999"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -72,9 +84,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     showguides="false"
-     inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0">
+     showguides="false">
     <inkscape:grid
        type="xygrid"
        id="grid19"
@@ -111,36 +121,17 @@
          width="52.591755" />
     </g>
     <rect
-       style="fill:#566171;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="fill:#d6ac72;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect4604"
-       width="44"
-       height="36"
+       width="43"
+       height="43"
        x="2"
-       y="2"
+       y="3"
        ry="1.4527029" />
-    <g
-       id="g842"
-       clip-path="url(#clipPath846)" />
-    <rect
-       style="opacity:1;fill:#566171;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.80000001;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect831"
-       width="24"
-       height="8"
-       x="12"
-       y="36"
-       ry="0" />
-    <rect
-       ry="2"
-       y="4"
-       x="4"
-       height="30"
-       width="40"
-       id="rect833"
-       style="fill:#ff9b85;fill-opacity:1;stroke:none;stroke-width:0.1709509;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
     <path
-       id="path843-7"
-       d="m 14.497,12 h 13 c 1,0 1,1 1,1 v 12 c 0,1 -1,1 -1,1 H 14.5 c 0,0 -1,0 -1,-1 V 13 c 0,0 0,-1 1,-1 z M 34.5,14 v 10 l -6.006,-5 z"
-       style="fill:#ffffff"
-       inkscape:connector-curvature="0" />
+       id="path907-6"
+       d="m 16.49997,10.499915 a 7,7 0 0 0 -7,7 7,7 0 0 0 6.5645,6.9844 c 0.05966,-0.09489 0.10813,-0.18611 0.17383,-0.2832 0.68592,-1.0136 1.951,-1.9183 3.1973,-2.2812 1.247,-0.363 2.48,-0.42 4.065,-0.42 a 3.0003,3.0003 0 0 1 0.43945,0.0332 c 0.98874,0.14623 1.4321,0.04025 1.5508,-0.0039 0.11865,-0.04416 0.08741,0.0063 0.27148,-0.27148 0.36815,-0.55548 0.93216,-2.4934 1.9805,-4.9395 a 3.0003,3.0003 0 0 1 2.7441,-1.8574 3.0003,3.0003 0 0 1 2.7715,4.2207 c -0.79786,1.8617 -1.1285,3.7811 -2.4414,5.8027 a 7,7 0 0 0 6.683,-6.984 7,7 0 0 0 -7,-7 7,7 0 0 0 -6.9824,6.5234 7,7 0 0 0 -0.01758,0 7,7 0 0 0 -0.02344,0 7,7 0 0 0 -6.977,-6.523 z m 0,4 a 3,3 0 0 1 3,3 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 z m 14.301,10.01 c -0.0136,0.02081 -0.0233,0.04167 -0.03711,0.0625 -0.68064,1.027 -1.7863,2.0634 -3.1797,2.582 -1.2909,0.48046 -2.6837,0.53365 -4.1719,0.34961 -1.2575,0.0058 -2.0048,0.10599 -2.248,0.17188 -0.06297,0.14144 -0.59502,2.0073 -1.916,5.0273 a 3.0003,3.0003 0 1 1 -5.4961,-2.4062 c 1.0581,-2.419 1.1253,-3.9059 2.2871,-5.7734 a 7,7 0 0 0 -6.539,6.976 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -0.02344,-0.47852 7,7 0 0 0 0.02344,0.002 7,7 0 0 0 0.01758,0 7,7 0 0 0 -0.018,0.477 7,7 0 0 0 7,7 7,7 0 0 0 7,-7 7,7 0 0 0 -6.6992,-6.9902 z m -0.301,3.99 a 3,3 0 0 1 3,3 3,3 0 0 1 -3,3 3,3 0 0 1 -3,-3 3,3 0 0 1 3,-3 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
   </g>
 </svg>
