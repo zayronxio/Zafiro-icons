@@ -14,7 +14,7 @@
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
    sodipodi:docname="ubuntuone.svg">
   <defs
      id="defs3905">
@@ -650,16 +650,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="9.8994949"
-     inkscape:cx="20.461887"
+     inkscape:cx="1.7740649"
      inkscape:cy="27.642712"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-height="740"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -676,7 +676,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -699,7 +699,7 @@
     </g>
     <ellipse
        id="path3005"
-       style="fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:1.72140718"
+       style="fill:#f49b60;fill-opacity:1;stroke:none;stroke-width:1.72140718"
        cx="23.982632"
        cy="24.214348"
        rx="22.779375"

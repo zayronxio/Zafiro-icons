@@ -14,7 +14,7 @@
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
    sodipodi:docname="xfce4-fsguard-plugin-warning.svg">
   <defs
      id="defs3905">
@@ -194,16 +194,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.9999999"
-     inkscape:cx="24.096958"
+     inkscape:cx="-2.3316138"
      inkscape:cy="22.271942"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-height="740"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      showguides="false">
     <inkscape:grid
@@ -220,7 +220,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -309,7 +309,7 @@
        id="rect926" />
     <path
        sodipodi:type="star"
-       style="opacity:1;fill:#ffaaaa;fill-opacity:0.94160587;fill-rule:nonzero;stroke:#ffaaaa;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647;paint-order:normal"
+       style="opacity:1;fill:#ffd4d1;fill-opacity:0.94117647;fill-rule:nonzero;stroke:#ffd4d1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94117647;paint-order:normal"
        id="path58"
        sodipodi:sides="3"
        sodipodi:cx="24.124355"
