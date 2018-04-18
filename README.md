@@ -1,8 +1,6 @@
 
 # Zafiro icons 
-zafiro icons is a icon pack for desktop xfce4 or lxde, with clean and simple design lines, inspired by flat desing. 
-the priority is minimalism, we do not saturate elements with any icon,
-each icon is given the time necessary to achieve a good job
+Minimalist icons created with the flat-desing technique, with washed out colors and always accompanied by white. the priority is simplicity
 
 *if you find any missing application icon please report it to me,
 at the moment I only accept report of icons of missing applications,
