@@ -1,7 +1,6 @@
 
 # Zafiro icons 
 zafiro icons is a icon pack for desktop xfce4 or lxde, with clean and simple design lines, inspired by flat desing. 
-it is distributed under [L.I.M.A license](https://limalicense.com/getlicense/)
 the priority is minimalism, we do not saturate elements with any icon,
 each icon is given the time necessary to achieve a good job
 
