@@ -11,8 +11,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg14"
-   sodipodi:docname="folder-home.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   sodipodi:docname="user-home.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1264,14 +1264,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-height="713"
      id="namedview16"
      showgrid="true"
-     inkscape:zoom="41.7193"
-     inkscape:cx="7.5350684"
+     inkscape:zoom="29.5"
+     inkscape:cx="2.3020389"
      inkscape:cy="6.4064898"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14"
      showguides="false">
@@ -1303,15 +1303,15 @@
     </g>
   </g>
   <path
-     style="fill:#6e7684;fill-opacity:0.57042253;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 7,13.5 H 2.5 v -5 h 11 v 5 H 9 v -3 H 7 Z"
+     style="fill:#6e7684;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 7,14.5 H 2 v -6 h 12 v 6 H 9.5 v -4 H 7 Z"
      id="path1198"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccc" />
   <path
      style="fill:#6e7684;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 1.5,7.5 h 13 V 7 L 8,2 1.5,7 Z"
+     d="m 0.5,7.5 h 15 L 8,2 Z"
      id="path1203"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccc" />
+     sodipodi:nodetypes="cccc" />
 </svg>
