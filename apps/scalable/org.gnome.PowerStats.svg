@@ -15,7 +15,7 @@
    id="svg3903"
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="jockey.svg">
+   sodipodi:docname="org.gnome.PowerStats.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -154,16 +154,24 @@
          width="52.591755" />
     </g>
     <rect
-       style="fill:#ac9d93;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="fill:#819e91;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect4604"
-       width="43"
-       height="43"
+       width="44"
+       height="42"
        x="2"
-       y="3"
+       y="4"
        ry="1.4527029" />
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="M 14 4 L 14 34 L 23.636719 24 L 34 34 L 34 4 L 14 4 z M 23.869141 5.6464844 L 26.298828 8.2636719 L 29.869141 8.1308594 L 29.736328 11.701172 L 32.353516 14.130859 L 29.736328 16.5625 L 29.869141 20.130859 L 26.298828 20 L 23.869141 22.617188 L 21.4375 20 L 17.869141 20.130859 L 18 16.5625 L 15.382812 14.130859 L 18 11.701172 L 17.869141 8.1308594 L 21.4375 8.2636719 L 23.869141 5.6464844 z "
-       id="rect842" />
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6,42 6,-6 6,2 8,-14 4,6 2,-8 10,-8"
+       id="path837"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.41013824"
+       d="M 8,42 18,26 h 4 l 6,-8 h 4 L 42,8"
+       id="path839"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
