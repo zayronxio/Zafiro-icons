@@ -23,9 +23,7 @@ If you like my job and you want to help me, invite me to a cafe. Here is a link 
    - The icon theme will be in the Setiings for select
 
 
-## Previews
+## Preview
 
-![apps](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/apps.png)
-![places](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/places.png)
-![mimetypes](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/mimetypes.png)
-![others](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/others.png)
+![Preview](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/preview.png)
+
