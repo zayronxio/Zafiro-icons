@@ -1,10 +1,14 @@
 [Icon Theme]
 Name=Zafiro-icons
-Comment=icon theme for gnome,xfce and lxde
+Comment=icon theme flat for gnome,xfce and lxde
+Comment[es]=tema de iconos planos para gnome,xfce y lxde
 Inherits=gnome,hicolor,Numix,breeze
 
+PanelDefault=22
+PanelSizes=22
+
 # Directory list
-Directories=apps/scalable,apps/22,apps/48,apps/16,places/16,places/24,places/48,status/22,devices/48,devices/22,mimetypes/48,panel/22,panel/22-0,actions/16,actions/22,actions/48,categories/22,emblems/16,
+Directories=apps/scalable,apps/22,apps/48,apps/16,places/16,places/24,places/48,status/22,devices/48,devices/22,mimetypes/48,panel/22,actions/16,actions/22,actions/48,categories/22,emblems/16,
 
 [apps/scalable]
 Size=48
@@ -75,16 +79,10 @@ MaxSize=512
 Type=Scalable
 
 [panel/22]
-Size=22
 Context=Status
-Type=fixes
+Size=22
+Type=Fixed
 
-[panel/22-0]
-Size=22
-Context=Status
-MinSize=8
-MaxSize=24
-Type=fixes
 
 [actions/16]
 Size=16
