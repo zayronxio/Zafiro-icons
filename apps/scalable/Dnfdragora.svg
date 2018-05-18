@@ -603,9 +603,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.75"
-     inkscape:cx="16.319811"
-     inkscape:cy="35.924293"
+     inkscape:zoom="2.4748737"
+     inkscape:cx="7.7930171"
+     inkscape:cy="6.6186408"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
@@ -630,7 +630,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -683,29 +683,11 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssscc" />
     <path
-       style="opacity:1;fill:#ffffff;fill-opacity:0.49545455;stroke:none;stroke-width:0.22677165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49545456"
-       d="m 20,2 h 10 v 28 l -1,-1 -1,1 -1,-1 H 26 L 25,28 24,30 23,29 22.071428,30 21,29 20,30 Z"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.49545456;stroke:none;stroke-width:0.22677165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49545456"
+       d="m 19,2 h 10 v 28 l -1,-1 -1,1 -1,-1 H 25 L 24,28 23,30 22,29 21.071428,30 20,29 19,30 Z"
        id="rect947"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccc" />
-    <path
-       style="opacity:1;fill:#ffffff;fill-opacity:0.71818177;stroke:none;stroke-width:0.22677165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49545456"
-       d="M 4,6 V 23 H 18 V 6 Z M 6,8 H 16 V 21 H 6 Z"
-       id="rect950"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccc" />
-    <path
-       style="fill:#ffffff;fill-opacity:0.71818177;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 8,20 h 2 v -8 h 1 L 9,9 7,12 h 1 z"
-       id="path955"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path957"
-       d="m 12,20 h 2 v -8 h 1 l -2,-3 -2,3 h 1 z"
-       style="fill:#ffffff;fill-opacity:0.71818177;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       sodipodi:nodetypes="cccccccc" />
     <circle
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path930"
