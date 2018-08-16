@@ -20,7 +20,7 @@ If you like my job and you want to help me, invite me to a cafe. Here is a link 
 
    - Move the folder of icons to `~/.local/share/icons` (in user mode) or `/usr/share/icons` (in root mode).
 
-   - The icon theme will be in the Setiings for select
+   - The icon theme will be in the Settings for select
 
 
 ## Preview
