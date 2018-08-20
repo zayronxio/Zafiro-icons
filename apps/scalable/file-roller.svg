@@ -14,8 +14,8 @@
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="file-roller.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="7z.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -212,17 +212,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.75"
-     inkscape:cx="18.335151"
-     inkscape:cy="16.469418"
+     inkscape:zoom="9.8994949"
+     inkscape:cx="12.935077"
+     inkscape:cy="24.878401"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-height="718"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="26"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -238,7 +238,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -265,7 +265,7 @@
        style="display:inline;opacity:0.98999999;fill:#6ebbdb;fill-opacity:1"
        transform="matrix(1.1503549,0,0,1.1503549,-4.4861245,-7.5255648)">
       <path
-         style="fill:#6ebbdb;fill-opacity:1;stroke:none;stroke-width:1.4909519"
+         style="fill:#59a477;fill-opacity:1;stroke:none;stroke-width:1.4909519"
          d="M 44.322082,27.405077 A 19.729762,19.729765 0 0 1 24.59232,47.134842 19.729762,19.729765 0 0 1 4.8625579,27.405077 19.729762,19.729765 0 0 1 24.59232,7.6753138 19.729762,19.729765 0 0 1 44.322082,27.405077 Z"
          id="path3005"
          inkscape:connector-curvature="0" />
