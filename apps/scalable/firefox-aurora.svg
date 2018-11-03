@@ -14,8 +14,8 @@
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="Firefox Nightly.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="firefox-aurora.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -58,17 +58,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.9497475"
-     inkscape:cx="3.102717"
+     inkscape:zoom="7"
+     inkscape:cx="0.62004843"
      inkscape:cy="18.282163"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="715"
+     inkscape:window-height="732"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -107,16 +107,17 @@
     </g>
     <g
        id="g4515"
-       transform="matrix(0.09046934,0,0,0.09046934,0.67753692,42.855997)">
+       transform="matrix(0.09046934,0,0,0.09046934,0.67753692,42.855997)"
+       style="fill:#6c5353;fill-opacity:1">
       <g
          transform="matrix(12.761994,0,0,12.761994,-57.709952,-559.41187)"
-         style="display:inline;opacity:0.98999999;fill:#f98665;fill-opacity:1"
+         style="display:inline;opacity:0.98999999;fill:#6c5353;fill-opacity:1"
          inkscape:label="circulo"
          id="layer2">
         <circle
            transform="matrix(1.4909518,0,0,1.490952,-10.987185,-19.32822)"
            id="path3005"
-           style="fill:#7b81fa;fill-opacity:1;stroke:none"
+           style="fill:#6c5353;fill-opacity:1;stroke:none"
            cx="23.940615"
            cy="31.534513"
            r="13.232998" />

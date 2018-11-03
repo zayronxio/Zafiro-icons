@@ -14,8 +14,8 @@
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="firefox.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="firefox-original.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -59,16 +59,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7"
-     inkscape:cx="27.191477"
+     inkscape:cx="0.62004843"
      inkscape:cy="18.282163"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-height="732"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -116,7 +116,7 @@
         <circle
            transform="matrix(1.4909518,0,0,1.490952,-10.987185,-19.32822)"
            id="path3005"
-           style="fill:#f98665;fill-opacity:1;stroke:none"
+           style="fill:#e28970;fill-opacity:1;stroke:none"
            cx="23.940615"
            cy="31.534513"
            r="13.232998" />
