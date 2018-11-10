@@ -15,7 +15,7 @@
    height="22"
    id="svg4431"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="ac-adapter-symbolic.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
@@ -26,12 +26,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="712"
+     inkscape:window-height="722"
      inkscape:window-width="1360"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -44,8 +44,8 @@
      id="base"
      showgrid="true"
      inkscape:zoom="10.375"
-     inkscape:cx="7.7569976"
-     inkscape:cy="2.6282916"
+     inkscape:cx="-6.652641"
+     inkscape:cy="2.5800988"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:current-layer="svg4431"
@@ -99,9 +99,8 @@
        gradientTransform="matrix(0,0.7805424,-0.7617909,0,29.873684,-36.749634)" />
   </defs>
   <path
-     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="M 12,2 7,12 h 3 v 7 L 15,9 h -3 z"
-     id="path14"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 11.095703,3.7402344 a 9,9 0 0 0 -8.9999999,8.9999996 9,9 0 0 0 8.9999999,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-8.9999996 z M 11,5.5 l 1,6 h 3 l -4,9 -1,-6 H 7 Z"
+     id="path822"
+     inkscape:connector-curvature="0" />
 </svg>

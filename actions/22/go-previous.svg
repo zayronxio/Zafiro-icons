@@ -14,7 +14,7 @@
    viewBox="0 0 5.8208332 5.8208335"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="go-previous.svg">
   <defs
      id="defs2" />
@@ -26,14 +26,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="7.8305055"
+     inkscape:cx="-5.5603298"
      inkscape:cy="11.593276"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="718"
+     inkscape:window-height="722"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1">
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,16 +59,16 @@
      id="layer1"
      transform="translate(0,-291.17915)">
     <path
-       style="fill:none;stroke:#6e7684;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 2.9104167,292.23748 -2.11666671,1.85209 2.11666661,2.11666"
-       id="path12"
+       style="fill:none;stroke:#6e7684;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.9104166,292.50207 -1.8520833,1.5875 1.8520833,1.5875"
+       id="path815"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <path
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
-       id="path822"
-       d="M 5.2916667,292.23748 3.175,294.08957 l 2.1166666,2.11666"
-       style="fill:none;stroke:#6e7684;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.52147239" />
+       id="path817"
+       d="m 5.0270833,292.50207 -1.8520833,1.5875 1.8520833,1.5875"
+       style="fill:none;stroke:#6e7684;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.58139533" />
   </g>
 </svg>
