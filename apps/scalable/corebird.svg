@@ -14,7 +14,7 @@
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="corebird.svg">
   <defs
      id="defs3905">
@@ -69,14 +69,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.75"
-     inkscape:cx="22.117182"
+     inkscape:cx="-72.454247"
      inkscape:cy="19.478019"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-height="718"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -95,7 +95,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -119,13 +119,13 @@
     <g
        id="layer2"
        inkscape:label="circulo"
-       style="display:inline;opacity:0.98999999;fill:#59bedc;fill-opacity:1"
+       style="display:inline;opacity:0.98999999;fill:#aa6ca6;fill-opacity:1"
        transform="matrix(1.1545692,0,0,1.1545692,-4.5434443,-7.7536257)">
       <circle
          r="13.232998"
          cy="31.534513"
          cx="23.940615"
-         style="fill:#59bedc;fill-opacity:1;stroke:none"
+         style="fill:#aa6ca6;fill-opacity:1;stroke:none"
          id="path3005"
          transform="matrix(1.4909518,0,0,1.490952,-10.987185,-19.32822)" />
     </g>
