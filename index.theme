@@ -74,7 +74,7 @@ Type=Scalable
 
 [mimetypes/48]
 Size=48
-Context=Mimetypes
+Context=MimeTypes
 MinSize=8
 MaxSize=512
 Type=Scalable
