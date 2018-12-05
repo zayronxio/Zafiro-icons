@@ -10,11 +10,11 @@
    height="48"
    width="48"
    version="1.1"
-   id="svg12"
-   sodipodi:docname="4kslideshowmaker.svg"
+   id="svg16"
+   sodipodi:docname="cutecom.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata18">
+     id="metadata22">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -26,7 +26,7 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs16" />
+     id="defs20" />
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -38,47 +38,58 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1360"
      inkscape:window-height="717"
-     id="namedview14"
+     id="namedview18"
      showgrid="true"
-     inkscape:zoom="45.254834"
-     inkscape:cx="34.838618"
-     inkscape:cy="32.018098"
+     inkscape:zoom="3.4766083"
+     inkscape:cx="22.964832"
+     inkscape:cy="33.422975"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg12">
+     inkscape:current-layer="svg16">
     <inkscape:grid
        type="xygrid"
-       id="grid828"
-       spacingx="0.5"
-       spacingy="0.5" />
+       id="grid829" />
   </sodipodi:namedview>
   <path
      d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z"
-     fill="#d26f5b"
+     fill="#527f66"
      opacity=".99"
      transform="matrix(1.1503549 0 0 1.1503549 -4.486125 -7.525565)"
-     id="path2" />
-  <path
-     d="m10.5 13.5h22.5v18h-22.5z"
-     fill="none"
-     stroke="#fff"
-     stroke-width="2"
-     id="path4" />
-  <path
-     d="m13.5 28.5 4.5-6 3 1.5 3-3 3 1.5 3-3v9z"
+     id="path2"
+     style="fill:#526c7f;fill-opacity:1" />
+  <g
      fill="#fff"
-     id="path6" />
-  <circle
-     cx="16.057142"
-     cy="19.042856"
-     fill="#fff"
-     r="2.55"
-     id="circle8" />
+     id="g10">
+    <path
+       d="m12 6c-.831001 0-1.5.669-1.5 1.5v24c0 .831.669 1.5 1.5 1.5h1.5v9h19.5v-9h1.5c.831 0 1.5-.669 1.5-1.5v-24c0-.831-.669-1.5-1.5-1.5zm4.5 30h3v3h-3zm10.5 0h3v3h-3z"
+       fill-opacity=".507772"
+       id="path4" />
+    <path
+       d="m12 6c-.831001 0-1.5.669-1.5 1.5v24c0 .831.669 1.5 1.5 1.5h1.5 19.5 1.5c.831 0 1.5-.669 1.5-1.5v-24c0-.831-.669-1.5-1.5-1.5z"
+       id="path6" />
+    <circle
+       cx="15.892858"
+       cy="13.107143"
+       r="8.392858"
+       stroke="#527f66"
+       stroke-linecap="round"
+       stroke-linejoin="bevel"
+       id="circle8"
+       style="stroke:#526c7f;stroke-opacity:1" />
+  </g>
   <path
-     d="m34.5 18h1.5v16.5h-22.5v-1.5"
-     fill="none"
-     stroke="#fff"
-     stroke-width="2"
-     id="path10" />
+     d="m15.3 8.7h1.5v9h-1.5z"
+     fill="#527f66"
+     stroke="#527f66"
+     stroke-width="1.5"
+     id="path12"
+     style="stroke:#526c7f;stroke-opacity:1" />
+  <path
+     d="m10.8 12.3h10.5v1.5h-10.5z"
+     fill="#527f66"
+     stroke="#527f66"
+     stroke-width="1.5"
+     id="path14"
+     style="fill:#526c7f;fill-opacity:1;stroke:#526c7f;stroke-opacity:1" />
 </svg>
