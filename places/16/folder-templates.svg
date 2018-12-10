@@ -11,7 +11,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="folder-templates.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -776,15 +776,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview16"
      showgrid="true"
      inkscape:zoom="14.75"
-     inkscape:cx="16.043562"
+     inkscape:cx="2.0774603"
      inkscape:cy="4.9890884"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14"
      showguides="false">
@@ -801,5 +801,5 @@
      inkscape:connector-curvature="0"
      id="path1334-2"
      d="M 2.293854,1.8260166 V 13.935674 h 11.00878 L 10,9.5321622 V 11.733918 H 4.495611 V 6.5964876 l 2.201755,2.201756 V 6.5964876 Z M 8.459058,2.8537897 7.358181,5.0555455 8.018993,5.7163585 H 8.899122 L 9.559936,5.0555455 Z M 7.358181,5.935674 v 4.403512 L 8.018993,11 H 8.899122 L 9.559936,10.339186 V 5.935674 L 8.899122,6.5964876 H 8.238309 Z"
-     style="fill:#6e7684;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.73391861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:#eeeff1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.73391861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>
