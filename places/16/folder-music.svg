@@ -11,7 +11,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="folder-music.svg"
-   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="740"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview16"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="-0.98719741"
+     inkscape:cx="-20.738248"
      inkscape:cy="-3.341971"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14">
     <inkscape:grid
@@ -54,7 +54,7 @@
      transform="translate(-28,-1036.3622)"
      id="g2" />
   <path
-     style="opacity:1;fill:#6e7684;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#eeeff1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 5 2 C 4.446 2 4 2.446 4 3 L 4 4 L 4 10.126953 A 2.5 2.5 0 0 0 3.4667969 10.068359 A 2.5 2.5 0 0 0 0.96679688 12.568359 A 2.5 2.5 0 0 0 3.4667969 15.068359 A 2.5 2.5 0 0 0 5.9257812 13 L 6 13 L 6 5 L 12 5 L 12 10.113281 A 2.5 2.5 0 0 0 11.533203 10.068359 A 2.5 2.5 0 0 0 9.0332031 12.568359 A 2.5 2.5 0 0 0 11.533203 15.068359 A 2.5 2.5 0 0 0 13.994141 13 L 14 13 L 14 12.960938 A 2.5 2.5 0 0 0 14.033203 12.568359 A 2.5 2.5 0 0 0 14 12.158203 L 14 4 L 14 3 C 14 2.446 13.554 2 13 2 L 5 2 z "
      id="rect14" />
 </svg>
