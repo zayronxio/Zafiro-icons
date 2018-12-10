@@ -15,7 +15,7 @@
    height="22"
    id="svg4431"
    sodipodi:version="0.32"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="xpad.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
@@ -26,13 +26,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1026"
-     inkscape:window-width="1920"
+     inkscape:window-height="718"
+     inkscape:window-width="1360"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10.0"
@@ -44,10 +44,10 @@
      id="base"
      showgrid="true"
      inkscape:zoom="20.749999"
-     inkscape:cx="1.5412882"
+     inkscape:cx="11.372614"
      inkscape:cy="8.463357"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:current-layer="svg4431"
      inkscape:window-maximized="1"
      showguides="false">
@@ -99,7 +99,7 @@
        gradientTransform="matrix(0,0.7805424,-0.7617909,0,29.873684,-36.749634)" />
   </defs>
   <path
-     style="fill:#1e1c1e;fill-opacity:0.45490196"
+     style="fill:#e9cb8c;fill-opacity:1"
      d="M 19,8.0964058 V 19 H 3 V 8.0282509 M 3,7.0740826 V 3 h 16 v 4.0059278"
      id="rect14"
      inkscape:connector-curvature="0"
@@ -109,5 +109,5 @@
      inkscape:connector-curvature="0"
      id="path22"
      d="M 3,7.0740826 V 3 h 16 v 4.0059278"
-     style="fill:#1e1c1e;fill-opacity:1" />
+     style="fill:#daa83e;fill-opacity:1" />
 </svg>

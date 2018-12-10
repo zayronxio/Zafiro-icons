@@ -12,7 +12,7 @@
    version="1.1"
    id="svg6"
    sodipodi:docname="battery-090-charging.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,15 +75,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1360"
+     inkscape:window-height="712"
      id="namedview8"
      showgrid="true"
      inkscape:zoom="21.454545"
-     inkscape:cx="0.49173322"
+     inkscape:cx="10.000208"
      inkscape:cy="8.9280316"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6">
     <inkscape:grid
@@ -91,12 +91,12 @@
        id="grid822" />
   </sodipodi:namedview>
   <path
-     style="fill:#1e1c1e;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.45490196"
+     style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:0.45490196"
      d="m 8,3 h 6 v 2 h 2 V 19 H 6 V 5 h 2 z"
      id="path826"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#1e1c1e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.54950953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#e7e7e7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.54950953px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 6,6 H 16 V 19 H 6 Z"
      id="path925"
      inkscape:connector-curvature="0" />
