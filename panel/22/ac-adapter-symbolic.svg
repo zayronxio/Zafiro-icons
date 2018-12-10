@@ -31,8 +31,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="722"
-     inkscape:window-width="1360"
+     inkscape:window-height="1026"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10.0"
@@ -43,11 +43,11 @@
      pagecolor="#b1b1b1"
      id="base"
      showgrid="true"
-     inkscape:zoom="10.375"
-     inkscape:cx="-6.652641"
-     inkscape:cy="2.5800988"
+     inkscape:zoom="29.344931"
+     inkscape:cx="0.47806716"
+     inkscape:cy="3.9523451"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="28"
      inkscape:current-layer="svg4431"
      inkscape:window-maximized="1"
      showguides="false">
@@ -99,8 +99,8 @@
        gradientTransform="matrix(0,0.7805424,-0.7617909,0,29.873684,-36.749634)" />
   </defs>
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.79999995;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 11.095703,3.7402344 a 9,9 0 0 0 -8.9999999,8.9999996 9,9 0 0 0 8.9999999,9 9,9 0 0 0 9,-9 9,9 0 0 0 -9,-8.9999996 z M 11,5.5 l 1,6 h 3 l -4,9 -1,-6 H 7 Z"
+     style="fill:#1e1c1e;fill-opacity:1;stroke:none;stroke-width:1.67289889;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 10.971442,2.92367 a 8.3644949,8.3644949 0 0 0 -8.3644943,8.364495 8.3644949,8.3644949 0 0 0 8.3644943,8.364494 8.3644949,8.3644949 0 0 0 8.364495,-8.364494 8.3644949,8.3644949 0 0 0 -8.364495,-8.364495 z m -0.08894,1.6355056 0.929389,5.5763294 h 2.788162 L 10.882497,18.5 9.9531089,12.92367 h -2.788165 z"
      id="path822"
      inkscape:connector-curvature="0" />
 </svg>

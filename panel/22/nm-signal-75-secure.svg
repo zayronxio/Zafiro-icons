@@ -15,7 +15,7 @@
    height="22"
    id="svg4431"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="nm-signal-75-secure.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
@@ -26,13 +26,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="712"
-     inkscape:window-width="1360"
+     inkscape:window-height="1026"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10.0"
@@ -43,11 +43,11 @@
      pagecolor="#b1b1b1"
      id="base"
      showgrid="true"
-     inkscape:zoom="2.5937501"
-     inkscape:cx="-3.911195"
-     inkscape:cy="13.781465"
+     inkscape:zoom="10.375"
+     inkscape:cx="-3.8323616"
+     inkscape:cy="8.9549055"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="28"
      inkscape:current-layer="svg4431"
      inkscape:window-maximized="1"
      showguides="false">
@@ -99,25 +99,25 @@
        gradientTransform="matrix(0,0.7805424,-0.7617909,0,29.873684,-36.749634)" />
   </defs>
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-rule:evenodd;stroke:#1e1c1e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 12.5,16.75 H 10"
      id="path17"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
   <path
-     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;fill-rule:evenodd;stroke:#1e1c1e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 14,13.5 H 8.5"
      id="path19"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
   <path
-     style="fill:#ffffff;fill-opacity:0.45490196;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:0.45490196;fill-rule:evenodd;stroke:#1e1c1e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 16.5,10 H 6"
      id="path21"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cc" />
   <path
-     style="fill:#ffffff;fill-opacity:0.45490196;fill-rule:evenodd;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.45490196"
+     style="fill:#ffffff;fill-opacity:0.45490196;fill-rule:evenodd;stroke:#1e1c1e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.45490196"
      d="M 19,6.5 H 3"
      id="path23"
      inkscape:connector-curvature="0"
@@ -125,6 +125,6 @@
   <path
      inkscape:connector-curvature="0"
      d="M 17.666667,15 C 16.928,15 16.333334,15.607333 16.333334,16.354 V 17 c -0.369334,0 -0.666667,0.297333 -0.666667,0.666666 v 2 c 0,0.369334 0.297333,0.666667 0.666667,0.666667 H 19 c 0.369334,0 0.666667,-0.297333 0.666667,-0.666667 v -2 C 19.666667,17.297333 19.369334,17 19,17 V 16.354 C 19,15.607333 18.405334,15 17.666667,15 Z m 0,0.666666 c 0.369333,0 0.666667,0.294667 0.666667,0.666667 V 17 H 17 v -0.666667 c 0,-0.372 0.297334,-0.666667 0.666667,-0.666667 z"
-     style="fill:#ececec;fill-opacity:1;stroke-width:0.66666669"
+     style="fill:#1e1c1e;fill-opacity:0.45490196;stroke-width:0.66666669"
      id="path2" />
 </svg>

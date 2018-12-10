@@ -12,7 +12,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="audio-input-microphone.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    width="22"
    height="22">
   <metadata
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1265,15 +1265,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="718"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview16"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="11.096979"
+     inkscape:cx="1.2214538"
      inkscape:cy="9.2024334"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14"
      showguides="false">
@@ -1307,9 +1307,9 @@
   <path
      d="M 11.25 2 C 9.1725 2 7.5 3.6725 7.5 5.75 L 7.5 6 L 10 6 L 10 7 L 7.5 7 L 7.5 8.5 L 10 8.5 L 10 9.5 L 7.5 9.5 L 7.5 11 L 10 11 L 10 12 L 7.5 12 L 7.5 13.25 C 7.5 15.3275 9.1725 17 11.25 17 C 13.3275 17 15 15.3275 15 13.25 L 15 12 L 12.5 12 L 12.5 11 L 15 11 L 15 9.5 L 12.5 9.5 L 12.5 8.5 L 15 8.5 L 15 7 L 12.5 7 L 12.5 6 L 15 6 L 15 5.75 C 15 3.6725 13.3275 2 11.25 2 z "
      id="rect370"
-     style="fill:#ffffff" />
+     style="fill:#1e1c1e;fill-opacity:1" />
   <path
-     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.72988504"
+     style="fill:none;stroke:#1e1c1e;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.82509506"
      d="m 5,14.5 c 1,6.5 11.5,6.5 12.5,0"
      id="path372"
      inkscape:connector-curvature="0"
