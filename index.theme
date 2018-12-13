@@ -42,7 +42,6 @@ MinSize=8
 MaxSize=32
 Type=Scalable
 
-
 [places/24]
 Size=24
 Context=Places
@@ -55,12 +54,10 @@ MinSize=32
 MaxSize=512
 Type=Scalable
 
-
-
 [status/22]
 Size=22
 Context=Status
-Type=fixes
+Type=Fixed
 
 [devices/48]
 Size=48
@@ -84,21 +81,20 @@ Context=Status
 Size=22
 Type=Fixed
 
-
 [actions/16]
 Size=16
-Context=actions
-Type=fixes
+Context=Actions
+Type=Fixed
 
 [actions/22]
 Size=22
-Context=actions
-Type=fixes
+Context=Actions
+Type=Fixed
 
 [actions/48]
 Size=48
-Context=actions
-Type=scalable
+Context=Actions
+Type=Scalable
 
 [categories/22]
 Size=22
@@ -112,4 +108,4 @@ Size=16
 Context=Emblems
 MinSize=8
 MaxSize=512
-Type=scalable
+Type=Scalable
