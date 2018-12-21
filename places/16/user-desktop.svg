@@ -10,7 +10,7 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg14"
-   sodipodi:docname="user-desktop.svg"
+   sodipodi:docname="gnome-ccdesktop.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata20">
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -776,15 +776,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1360"
+     inkscape:window-height="713"
      id="namedview16"
      showgrid="true"
      inkscape:zoom="10.429825"
-     inkscape:cx="-11.780986"
+     inkscape:cx="7.970064"
      inkscape:cy="6.117776"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14"
      showguides="false">
@@ -798,7 +798,7 @@
      transform="translate(-28,-1036.3622)"
      id="g2" />
   <path
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#eeeff1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.51181102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#6e7684;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.51181102;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      d="M 0.5 2 C 0.4551029 5.9188809 0.5869655 9.5816832 0.5 13.5 L 4.2460938 13.5 L 4.2460938 14 L 5.2460938 14 L 5.2460938 15 L 10.746094 15 L 10.746094 14 L 11.746094 14 L 11.746094 13.5 L 15.5 13.5 L 15.5 2 L 0.5 2 z M 2 3.5 L 14 3.5 L 14 12 L 2 12 L 2 3.5 z M 3.25 4.5 L 3.25 11 L 12.75 11 L 12.75 4.5 L 3.25 4.5 z M 8 5.25 L 12 5.25 L 12 7.75 L 8 7.75 L 8 10.25 L 4 10.25 L 4 7.75 L 8 7.75 L 8 5.25 z "
      id="rect215" />
 </svg>

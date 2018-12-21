@@ -1263,15 +1263,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1360"
+     inkscape:window-height="713"
      id="namedview16"
      showgrid="true"
      inkscape:zoom="29.5"
-     inkscape:cx="-4.6810119"
+     inkscape:cx="2.3020389"
      inkscape:cy="6.4064898"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14"
      showguides="false">
@@ -1303,13 +1303,13 @@
     </g>
   </g>
   <path
-     style="fill:#eeeff1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#6e7684;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 7,14.5 H 2 v -6 h 12 v 6 H 9.5 v -4 H 7 Z"
      id="path1198"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccc" />
   <path
-     style="fill:#eeeff1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#6e7684;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 0.5,7.5 h 15 L 8,2 Z"
      id="path1203"
      inkscape:connector-curvature="0"

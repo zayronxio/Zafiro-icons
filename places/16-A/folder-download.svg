@@ -10,8 +10,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg14"
-   sodipodi:docname="folder-templates.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   sodipodi:docname="folder-download.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -658,114 +658,6 @@
          stdDeviation="1.71"
          id="feGaussianBlur3176-32-2" />
     </filter>
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath846-2">
-      <rect
-         ry="1.4527029"
-         y="3"
-         x="2"
-         height="43"
-         width="43"
-         id="rect848-7"
-         style="fill:#f16e5d;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
-    </clipPath>
-    <clipPath
-       id="clipPath838-0"
-       clipPathUnits="userSpaceOnUse">
-      <rect
-         ry="1.0866355"
-         y="7.8309994"
-         x="4.9372187"
-         height="32.164406"
-         width="38.023293"
-         id="rect840-9"
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16189085;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
-    </clipPath>
-    <filter
-       id="filter3174-34-9"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-20" />
-    </filter>
-    <filter
-       id="filter3174-2-0-7"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-59" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-228">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-97"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-44-3"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-6" />
-    </filter>
-    <filter
-       id="filter3174-2-2-1"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-2" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-9">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-3"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-34-6-19"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-32-5-47" />
-    </filter>
-    <filter
-       id="filter3174-2-0-6-84"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-0-4-50" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-7-2-3">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-4-8-6"
-         stdDeviation="1.71" />
-    </filter>
-    <filter
-       id="filter3174-44-1-1"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-3-3-06" />
-    </filter>
-    <filter
-       id="filter3174-2-2-8-3"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176-1-3-0-20" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3174-4-4-2-6">
-      <feGaussianBlur
-         id="feGaussianBlur3176-2-3-0-15"
-         stdDeviation="1.71" />
-    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -776,18 +668,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview16"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="16.043562"
-     inkscape:cy="4.9890884"
+     inkscape:zoom="20.85965"
+     inkscape:cx="-4.0465669"
+     inkscape:cy="5.2358351"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg14"
-     showguides="false">
+     inkscape:current-layer="svg14">
     <inkscape:grid
        type="xygrid"
        id="grid817"
@@ -797,9 +688,18 @@
   <g
      transform="translate(-28,-1036.3622)"
      id="g2" />
+  <rect
+     style="opacity:1;fill:#eeeff1;fill-opacity:0.68627453;fill-rule:nonzero;stroke:none;stroke-width:2.63493037;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="rect5088"
+     width="7"
+     height="5.5"
+     x="4.5"
+     y="1.5"
+     ry="0" />
   <path
+     style="fill:#eeeff1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.37938213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1.5,8 h 13 L 8,14.5 Z"
+     id="path5092"
      inkscape:connector-curvature="0"
-     id="path1334-2"
-     d="M 2.293854,1.8260166 V 13.935674 h 11.00878 L 10,9.5321622 V 11.733918 H 4.495611 V 6.5964876 l 2.201755,2.201756 V 6.5964876 Z M 8.459058,2.8537897 7.358181,5.0555455 8.018993,5.7163585 H 8.899122 L 9.559936,5.0555455 Z M 7.358181,5.935674 v 4.403512 L 8.018993,11 H 8.899122 L 9.559936,10.339186 V 5.935674 L 8.899122,6.5964876 H 8.238309 Z"
-     style="fill:#6e7684;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.73391861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     sodipodi:nodetypes="cccc" />
 </svg>

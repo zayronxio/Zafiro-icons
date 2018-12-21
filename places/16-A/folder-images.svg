@@ -10,8 +10,8 @@
    viewBox="0 0 16 16"
    version="1.1"
    id="svg14"
-   sodipodi:docname="folder-templates.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   sodipodi:docname="folder-images.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -20,12 +20,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
      id="defs18">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 8 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="16 : 8 : 1"
+       inkscape:persp3d-origin="8 : 5.3333333 : 1"
+       id="perspective1407" />
     <linearGradient
        id="linearGradient3866">
       <stop
@@ -766,6 +773,492 @@
          id="feGaussianBlur3176-2-3-0-15"
          stdDeviation="1.71" />
     </filter>
+    <clipPath
+       id="clipPath846-29"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="fill:#f16e5d;fill-opacity:1;stroke:none;stroke-width:0.19905733;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         id="rect848-1"
+         width="43"
+         height="43"
+         x="2"
+         y="3"
+         ry="1.4527029" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath838-2">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.16189085;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         id="rect840-7"
+         width="38.023293"
+         height="32.164406"
+         x="4.9372187"
+         y="7.8309994"
+         ry="1.0866355" />
+    </clipPath>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-34-879">
+      <feGaussianBlur
+         id="feGaussianBlur3176-32-202"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-0-59">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-0-2"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-7-28"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-4-973" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-44-6">
+      <feGaussianBlur
+         id="feGaussianBlur3176-3-1"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-2-2">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-3-93"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-4-19"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-3-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-34-6-7">
+      <feGaussianBlur
+         id="feGaussianBlur3176-32-5-8"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-0-6-4">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-0-4-503"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-7-2-61"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-4-8-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-44-1-6">
+      <feGaussianBlur
+         id="feGaussianBlur3176-3-3-3"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-2-8-2">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-3-0-06"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-4-2-1"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-3-0-5" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-34-87-2">
+      <feGaussianBlur
+         id="feGaussianBlur3176-32-92-5"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-0-3-4">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-0-7-7"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-7-5-4"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-4-9-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-44-2-3">
+      <feGaussianBlur
+         id="feGaussianBlur3176-3-2-0"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-2-89-7">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-3-7-8"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-4-3-6"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-3-6-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-34-6-1-8">
+      <feGaussianBlur
+         id="feGaussianBlur3176-32-5-2-4"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-0-6-9-3">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-0-4-3-1"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-7-2-19-4"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-4-8-4-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-44-1-7-2">
+      <feGaussianBlur
+         id="feGaussianBlur3176-3-3-8-0"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-2-8-4-6">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-3-0-50-8"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-4-2-36-9"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-3-0-1-2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-4-4-2-9-6">
+      <feGaussianBlur
+         id="feGaussianBlur3176-2-3-0-4-6"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-2-2-8-1-4"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-1-3-0-5-9" />
+    </filter>
+    <filter
+       id="filter3174-44-1-9-5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-3-3-95-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-4-7-2-1-4">
+      <feGaussianBlur
+         id="feGaussianBlur3176-2-4-8-31-8"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-2-0-6-6-7"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-1-0-4-9-1" />
+    </filter>
+    <filter
+       id="filter3174-34-6-13-7"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-32-5-5-2" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-4-4-20-7">
+      <feGaussianBlur
+         id="feGaussianBlur3176-2-3-8-2"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-2-2-3-2"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-1-3-6-6" />
+    </filter>
+    <filter
+       id="filter3174-44-9-1"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-3-14-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-4-7-54-6">
+      <feGaussianBlur
+         id="feGaussianBlur3176-2-4-76-1"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-2-0-68-5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-1-0-5-9" />
+    </filter>
+    <filter
+       id="filter3174-34-8-4"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-32-4-9" />
+    </filter>
+    <filter
+       id="filter3174-4-0"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-1">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-7"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-7">
+      <feGaussianBlur
+         id="feGaussianBlur3176-11"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-4-2-3-5"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-3-0-9-9" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-2-8-16-7">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-3-0-0-7"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-44-1-5-6">
+      <feGaussianBlur
+         id="feGaussianBlur3176-3-3-0-7"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-7-2-2-3"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-4-8-5-6" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-0-6-67-5">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-0-4-5-6"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-34-6-6-3">
+      <feGaussianBlur
+         id="feGaussianBlur3176-32-5-1-9"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-4-8-4"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-3-7-8" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-2-5-1">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-3-8-2"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-44-8-9">
+      <feGaussianBlur
+         id="feGaussianBlur3176-3-0-3"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-7-6-9"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-4-1-0" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-0-5-8">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-0-1-8"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-34-5-5">
+      <feGaussianBlur
+         id="feGaussianBlur3176-32-9-0"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-1-9"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-0-6" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-8-3">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-4-8"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-3-5">
+      <feGaussianBlur
+         id="feGaussianBlur3176-0-6"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-4-2-4-1"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-3-0-7-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-2-8-6-5">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-3-0-2-9"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-44-1-96-8">
+      <feGaussianBlur
+         id="feGaussianBlur3176-3-3-2-4"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-7-2-6-8"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-4-8-3-1" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-0-6-8-0">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-0-4-6-3"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-34-6-8-0">
+      <feGaussianBlur
+         id="feGaussianBlur3176-32-5-4-4"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-4-1-4"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-3-02-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-2-4-4">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-3-9-7"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-44-14-6">
+      <feGaussianBlur
+         id="feGaussianBlur3176-3-8-3"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       id="filter3174-4-7-22-1"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.71"
+         id="feGaussianBlur3176-2-4-0-7" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-2-0-65-5">
+      <feGaussianBlur
+         id="feGaussianBlur3176-1-0-9-9"
+         stdDeviation="1.71" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3174-34-1-6">
+      <feGaussianBlur
+         id="feGaussianBlur3176-32-2-2"
+         stdDeviation="1.71" />
+    </filter>
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -776,15 +1269,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1360"
-     inkscape:window-height="712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
      id="namedview16"
      showgrid="true"
-     inkscape:zoom="14.75"
-     inkscape:cx="16.043562"
-     inkscape:cy="4.9890884"
+     inkscape:zoom="10.429825"
+     inkscape:cx="-11.050055"
+     inkscape:cy="7.0654019"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14"
      showguides="false">
@@ -798,8 +1291,21 @@
      transform="translate(-28,-1036.3622)"
      id="g2" />
   <path
+     style="fill:#eeeff1;fill-opacity:0.68627453;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1,14.5 4,-6 4,6 z"
+     id="path1455"
      inkscape:connector-curvature="0"
-     id="path1334-2"
-     d="M 2.293854,1.8260166 V 13.935674 h 11.00878 L 10,9.5321622 V 11.733918 H 4.495611 V 6.5964876 l 2.201755,2.201756 V 6.5964876 Z M 8.459058,2.8537897 7.358181,5.0555455 8.018993,5.7163585 H 8.899122 L 9.559936,5.0555455 Z M 7.358181,5.935674 v 4.403512 L 8.018993,11 H 8.899122 L 9.559936,10.339186 V 5.935674 L 8.899122,6.5964876 H 8.238309 Z"
-     style="fill:#6e7684;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.73391861px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#eeeff1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 4,14.5 9,10 15,14.5 Z"
+     id="path1457"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <circle
+     style="opacity:1;fill:#eeeff1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.85969281;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="path1459"
+     cx="11.404121"
+     cy="6.3288479"
+     r="3.0752733" />
 </svg>

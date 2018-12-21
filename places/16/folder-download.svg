@@ -11,7 +11,7 @@
    version="1.1"
    id="svg14"
    sodipodi:docname="folder-download.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -668,15 +668,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-width="1360"
+     inkscape:window-height="712"
      id="namedview16"
      showgrid="true"
      inkscape:zoom="20.85965"
-     inkscape:cx="-4.0465669"
+     inkscape:cx="5.8289583"
      inkscape:cy="5.2358351"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg14">
     <inkscape:grid
@@ -689,7 +689,7 @@
      transform="translate(-28,-1036.3622)"
      id="g2" />
   <rect
-     style="opacity:1;fill:#eeeff1;fill-opacity:0.68627453;fill-rule:nonzero;stroke:none;stroke-width:2.63493037;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:#6e7684;fill-opacity:0.68871593;fill-rule:nonzero;stroke:none;stroke-width:2.63493037;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect5088"
      width="7"
      height="5.5"
@@ -697,7 +697,7 @@
      y="1.5"
      ry="0" />
   <path
-     style="fill:#eeeff1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.37938213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#6e7684;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.37938213px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 1.5,8 h 13 L 8,14.5 Z"
      id="path5092"
      inkscape:connector-curvature="0"
