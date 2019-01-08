@@ -51,54 +51,11 @@
        type="xygrid"
        id="grid843" />
   </sodipodi:namedview>
-  <clipPath
-     id="a">
-    <rect
-       height="37"
-       ry="1"
-       width="40"
-       x="4"
-       y="10"
-       id="rect2" />
-  </clipPath>
-  <g
-     fill="#fff"
-     id="g13">
-    <path
-       d="m13 36v-2l2-1 1-1h5l1 1 2 1v2z"
-       fill-opacity=".96831"
-       fill-rule="evenodd"
-       id="path5" />
-    <path
-       d="m23 26.000001a4.5002861 4.5002861 0 0 1 -4.701972 4.280497 4.5002861 4.5002861 0 0 1 -4.289075-4.694149 4.5002861 4.5002861 0 0 1 4.686312-4.297638 4.5002861 4.5002861 0 0 1 4.306185 4.678458"
-       id="path7" />
-    <path
-       d="m28.000001 18a3 3 0 0 1 -3.134449 2.853483 3 3 0 0 1 -2.859201-3.129234 3 3 0 0 1 3.124009-2.864909 3 3 0 0 1 2.870608 3.118773"
-       fill-opacity=".947183"
-       id="path9" />
-    <path
-       d="m34.000001 21a2 2 0 0 1 -2.089633 1.902323 2 2 0 0 1 -1.906134-2.086156 2 2 0 0 1 2.082673-1.90994 2 2 0 0 1 1.913738 2.079182"
-       fill-opacity=".950704"
-       id="path11" />
-  </g>
-  <path
-     d="m18 26 7-8 7 3"
-     fill="none"
-     stroke="#fafafa"
-     stroke-width="3"
-     id="path15" />
-  <path
-     d="m30 24v2l-3 2 1 4h1v-4h2l1 3h1l1-3h2v4h1l1-4-3-2v-2z"
-     fill="#fff"
-     fill-rule="evenodd"
-     id="path17"
-     style="fill:#ffffff;fill-opacity:1" />
   <path
      style="fill:#685770;fill-opacity:1"
      d="m 5,10 h 38 c 0.554,0 1,0.446 1,1 v 26 c 0,0.554 -0.446,1 -1,1 H 5 C 4.446,38 4,37.554 4,37 V 11 c 0,-0.554 0.446,-1 1,-1 z"
      id="rect19" />
   <path
-     clip-path="url(#a)"
      d="m4 10v35l40-35z"
      fill="#7e5e8e"
      fill-rule="evenodd"
