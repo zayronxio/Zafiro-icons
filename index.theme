@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Zafiro-icons
+Name=Zafiro-icons-white-yellow
 Comment=icon theme flat for gnome,xfce and lxde
 Comment[es]=tema de iconos planos y sobrios.
 Comment[zh_TW]=清醒和平面图标的主题
@@ -9,7 +9,7 @@ PanelDefault=22
 PanelSizes=22
 
 # Directory list
-Directories=apps/scalable,apps/22,apps/48,apps/16,places/16,places/24,places/48,status/22,devices/48,devices/22,mimetypes/48,panel/22,actions/16,actions/22,actions/48,categories/22,emblems/16,
+Directories=apps/scalable,apps/22,apps/48,apps/16,places/16,places/24,places/48-white-yellow,status/22,devices/48,devices/22,mimetypes/48,panel/22,actions/16,actions/22,actions/48,categories/22,emblems/16,
 
 [apps/scalable]
 Size=48
@@ -47,7 +47,7 @@ Size=24
 Context=Places
 Type=Scalable
 
-[places/48]
+[places/48-white-yellow]
 Size=48
 Context=Places
 MinSize=32
