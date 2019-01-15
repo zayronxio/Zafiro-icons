@@ -12,7 +12,7 @@
    version="1.1"
    id="svg31"
    sodipodi:docname="conky-manager.svg"
-   inkscape:version="0.92.1 r15371">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata37">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,10 +66,10 @@
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
      inkscape:zoom="3.4766083"
-     inkscape:cx="21.332922"
+     inkscape:cx="-33.893317"
      inkscape:cy="3.1962442"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg31" />
   <clipPath
@@ -78,15 +78,10 @@
        d="m3.4527029 3h40.0945941c.804798 0 1.452703.6479055 1.452703 1.4527029v8.5455121l-43 .151523v-8.6970351c0-.8047974.6479055-1.4527029 1.4527029-1.4527029z"
        id="path2" />
   </clipPath>
-  <rect
-     fill="#89909a"
-     height="43"
-     ry="1.452703"
-     width="43"
-     x="2"
-     y="3"
-     id="rect5"
-     style="fill:#49648b;fill-opacity:1" />
+  <path
+     style="fill:#49648b;fill-opacity:1"
+     d="M 3.452703,3 43.547297,3 C 44.352094,3 45,3.6479055 45,4.452703 l 0,40.094594 C 45,45.352094 44.352094,46 43.547297,46 L 3.452703,46 C 2.6479055,46 2,45.352094 2,44.547297 L 2,4.452703 C 2,3.6479055 2.6479055,3 3.452703,3 Z"
+     id="rect5" />
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:0.07575755;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
      id="rect4514"

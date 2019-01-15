@@ -12,7 +12,7 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="preferences-desktop-tweaks.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-height="1025"
      id="namedview10"
      showgrid="false"
      inkscape:zoom="6.9532167"
-     inkscape:cx="24.40678"
+     inkscape:cx="-3.206339"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <rect
@@ -56,7 +56,7 @@
      x="-41.009861"
      y="7"
      id="rect2"
-     style="fill:#ce8644;fill-opacity:1" />
+     style="fill:#da781f;fill-opacity:1" />
   <path
      transform="rotate(-90)"
      style="fill:#cd89bf;fill-opacity:1"
@@ -73,7 +73,7 @@
      x="-17.006973"
      y="16.948099"
      id="rect4"
-     style="fill:#5d87ca;fill-opacity:1" />
+     style="fill:#40525d;fill-opacity:1" />
   <path
      id="path840-3"
      d="m 21.5,13.009862 -0.255859,2.804688 a 8.656599,8.656599 0 0 0 -1.095703,0.447265 l -2.158204,-1.798828 -3.537109,3.537109 1.802734,2.164063 a 8.656599,8.656599 0 0 0 -0.453125,1.089844 L 13,21.509862 v 5 l 2.804688,0.255859 a 8.656599,8.656599 0 0 0 0.447265,1.095703 l -1.798828,2.158204 3.537109,3.537109 2.164063,-1.802734 a 8.656599,8.656599 0 0 0 1.089844,0.453125 L 21.5,35.009862 h 5 l 0.255859,-2.804688 a 8.656599,8.656599 0 0 0 1.095703,-0.447265 l 2.158204,1.798828 3.537109,-3.537109 -1.802734,-2.164063 a 8.656599,8.656599 0 0 0 0.453125,-1.089844 L 35,26.509862 v -5 L 32.195312,21.254003 A 8.656599,8.656599 0 0 0 31.748047,20.1583 l 1.798828,-2.158204 -3.537109,-3.537109 -2.164063,1.802734 A 8.656599,8.656599 0 0 0 26.755859,15.812596 L 26.5,13.009862 Z M 24,19.15244 A 4.8571429,4.8571429 0 0 1 28.857422,24.009862 4.8571429,4.8571429 0 0 1 24,28.867284 4.8571429,4.8571429 0 0 1 19.142578,24.009862 4.8571429,4.8571429 0 0 1 24,19.15244 Z"

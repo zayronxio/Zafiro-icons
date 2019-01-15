@@ -12,7 +12,7 @@
    version="1.1"
    id="svg16"
    sodipodi:docname="juk.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.91 r13725">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -194,27 +194,26 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1025"
      id="namedview18"
      showgrid="true"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="22.866832"
-     inkscape:cy="22.104588"
+     inkscape:zoom="13.906433"
+     inkscape:cx="7.1838559"
+     inkscape:cy="23.141005"
      inkscape:window-x="0"
-     inkscape:window-y="28"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg16">
     <inkscape:grid
        type="xygrid"
        id="grid829" />
   </sodipodi:namedview>
-  <path
-     d="m44.322082 27.405077a19.729762 19.729765 0 0 1 -19.729762 19.729765 19.729762 19.729765 0 0 1 -19.7297621-19.729765 19.729762 19.729765 0 0 1 19.7297621-19.7297632 19.729762 19.729765 0 0 1 19.729762 19.7297632z"
-     fill="#527f66"
-     opacity=".99"
-     transform="matrix(1.1503549 0 0 1.1503549 -4.486125 -7.525565)"
-     id="path2"
-     style="fill:#749fb4;fill-opacity:1" />
+  <circle
+     style="opacity:1;fill:#749fb4;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     id="path4167"
+     cx="23.713203"
+     cy="23.985281"
+     r="22.684189" />
   <path
      style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
      d="M 23.804688,6.6699219 C 14.233557,6.6699387 6.4746265,14.428869 6.4746094,24 6.4746265,33.571131 14.233557,41.330061 23.804688,41.330078 33.375819,41.330061 41.134749,33.571131 41.134766,24 41.134749,14.428869 33.375819,6.669939 23.804688,6.6699219 Z"

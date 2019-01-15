@@ -16,9 +16,21 @@
    id="svg4232"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="cantata.svg">
+   sodipodi:docname="taisei.svg">
   <defs
      id="defs4234">
+    <color-profile
+       name="NTSC-RGB"
+       xlink:href="/usr/share/color/icc/colord/NTSC-RGB.icc"
+       id="color-profile4383" />
+    <color-profile
+       name="Apple-RGB"
+       xlink:href="/usr/share/color/icc/colord/AppleRGB.icc"
+       id="color-profile4381" />
+    <color-profile
+       name="Compatible-with-Adobe-RGB--1998-"
+       xlink:href="/usr/share/color/icc/colord/AdobeRGB1998.icc"
+       id="color-profile4379" />
     <radialGradient
        id="radial0"
        gradientUnits="userSpaceOnUse"
@@ -871,9 +883,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="-114.37163"
-     inkscape:cy="20.667559"
+     inkscape:zoom="5.6"
+     inkscape:cx="40.641889"
+     inkscape:cy="20.91001"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -905,33 +917,21 @@
      id="layer1"
      transform="translate(0,-1004.3622)">
     <circle
-       style="opacity:1;fill:#689c95;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       style="opacity:1;fill:#73c0ad;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
        id="path4782"
        cx="23.446428"
        cy="1028.804"
        r="22.5" />
-    <g
-       id="g4362"
-       transform="translate(-4.4116317,-5.3438976)">
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="path846-1"
-         d="m 27.85806,1016.8178 c -9.57113,0 -17.33006,7.759 -17.33008,17.3301 2e-5,9.5711 7.75895,17.3301 17.33008,17.3301 9.57113,0 17.33006,-7.759 17.33008,-17.3301 -2e-5,-9.5711 -7.75895,-17.3301 -17.33008,-17.3301 z"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
-      <ellipse
-         ry="5.4830508"
-         rx="6.5222874"
-         cy="1040.1564"
-         cx="24.571671"
-         id="path872-0"
-         style="opacity:1;fill:#689c95;fill-opacity:1;stroke:none;stroke-width:2.09438324;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
-      <path
-         sodipodi:nodetypes="ccccccc"
-         inkscape:connector-curvature="0"
-         id="path874-6"
-         d="m 31.05337,1040.1479 0,-12 5,-1 0,-5 -10,2 0,14 z"
-         style="fill:#689c95;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    </g>
+    <circle
+       style="opacity:1;fill:#ffffff;fill-opacity:0.22053231;stroke:none;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path4340"
+       cx="23.446428"
+       cy="1028.804"
+       r="19.910715" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ffffff"
+       d="m 27.220708,1012.9854 c -0.768428,-0.035 -1.599356,2e-4 -2.501953,0.1191 -6.345533,0.8362 -12.096625,8.2278 -13.904297,14.9668 l 0.05273,0.029 c -0.448204,-0.069 -0.9071803,-0.1074 -1.3789073,-0.1074 -0.978066,0.053 -1.789755,0.1105 -1.992187,0.6289 -0.57685,1.8188 1.439453,1.5489 1.439453,1.5489 l -0.630859,-0.6856 c -0.333929,-1.4715 6.0463713,1.3606 7.7617183,3.457 4.775907,5.8369 5.150375,13.3477 15.417969,11.8848 1.584428,-0.2257 3.147895,-0.394 4.642578,-1.7637 -2.045886,0.5344 -3.880415,0.5678 -5.507812,0.75 -5.718,0.6016 -7.402667,-1.5369 -9.382813,-5.914 -1.209552,-2.7308 -3.043185,-5.5957 -5.458984,-7.5391 l 0.138672,-2.2656 -1.00586,1.6269 c -0.104328,-0.07 -0.217967,-0.1229 -0.324218,-0.1894 1.729748,-4.3171 0.900264,-10.4345 8.041015,-13.4629 9.274427,-3.9333 9.730533,2.1911 14.765625,3.0391 -2.471763,-2.2247 -4.792881,-5.8811 -10.171875,-6.1231 z m -0.828125,7.0195 0,1 c 0,1.2514 0.0089,1.9235 0.0098,3 l -2.009766,0 0,2 2.015625,0 c 0.01262,4.188 0.0504,7.4268 0.240235,9.2305 0.131501,1.2493 0.29761,2.09 0.755859,2.7773 0.458248,0.6874 1.321614,0.9922 1.988281,0.9922 l 1,0 0,-2 -1,0 c -0.333333,0 -0.219967,0.055 -0.324219,-0.1015 -0.104251,-0.1564 -0.313141,-0.7532 -0.43164,-1.8789 -0.171008,-1.6246 -0.211233,-4.8386 -0.226563,-9.0196 l 1.982422,0 0,-2 -1.988281,0 c -0.0014,-1.0782 -0.01172,-1.747 -0.01172,-3 l 0,-1 -2,0 z"
+       id="path4311-3" />
   </g>
 </svg>
