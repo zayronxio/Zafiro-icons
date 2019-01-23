@@ -12,7 +12,7 @@
    version="1.1"
    id="svg27"
    sodipodi:docname="telepathy-kde.svg"
-   inkscape:version="0.91 r13725">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata33">
     <rdf:RDF>
@@ -37,12 +37,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1025"
+     inkscape:window-height="1031"
      id="namedview29"
      showgrid="true"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-57.152543"
-     inkscape:cy="24"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="7.7380172"
+     inkscape:cy="18.331301"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
@@ -52,27 +52,20 @@
        id="grid843" />
   </sodipodi:namedview>
   <path
-     style="fill:#4e8d7b;fill-opacity:1"
-     d="m 5,10 h 38 c 0.554,0 1,0.446 1,1 v 26 c 0,0.554 -0.446,1 -1,1 H 5 C 4.446,38 4,37.554 4,37 V 11 c 0,-0.554 0.446,-1 1,-1 z"
-     id="rect19" />
+     style="fill:#64b5c5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 3,38 h 41 c 0.53259,0 1,-0.490166 1,-1 V 8 H 3 Z"
+     id="path821"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc" />
   <path
-     d="m4 10v35l40-35z"
-     fill="#7e5e8e"
-     fill-rule="evenodd"
-     id="path21"
-     style="fill:#57a98d;fill-opacity:1" />
-  <circle
-     cx="35"
-     cy="25"
-     fill="#e9e3ec"
-     r="3"
+     style="fill:#5492c8;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 3,45 45,8 H 3 Z"
+     id="path819"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccc" />
+  <path
+     style="fill:#ffffff;fill-opacity:1"
+     d="m 13.071289,20 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z m 21.857422,0 a 3,3 0 0 0 -3,3 3,3 0 0 0 3,3 3,3 0 0 0 3,-3 3,3 0 0 0 -3,-3 z"
      id="circle23"
-     style="fill:#ffffff;fill-opacity:1" />
-  <circle
-     cx="13.142858"
-     cy="25"
-     fill="#e9e3ec"
-     r="3"
-     id="circle25"
-     style="fill:#ffffff;fill-opacity:1" />
+     inkscape:connector-curvature="0" />
 </svg>
