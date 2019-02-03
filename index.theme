@@ -77,9 +77,11 @@ MaxSize=512
 Type=Scalable
 
 [panel/22]
-Context=Status
 Size=22
-Type=Fixed
+Context=Status
+MinSize=8
+MaxSize=256
+Type=Scalable
 
 [actions/16]
 Size=16
