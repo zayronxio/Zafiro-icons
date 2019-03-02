@@ -14,8 +14,8 @@
    height="22"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="qbittorrent.svg">
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="clipit-trayicon.svg">
   <defs
      id="defs3905">
     <linearGradient
@@ -204,28 +204,28 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#b5b5b5"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.8994949"
-     inkscape:cx="-8.7792623"
-     inkscape:cy="10.404896"
+     inkscape:zoom="19.79899"
+     inkscape:cx="8.9036214"
+     inkscape:cy="11.498464"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1360"
-     inkscape:window-height="718"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="30"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid831"
-       spacingx="0.3"
-       spacingy="0.3" />
+       spacingx="1"
+       spacingy="1" />
   </sodipodi:namedview>
   <metadata
      id="metadata3908">
@@ -235,7 +235,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -300,9 +300,15 @@
        id="layer4-7"
        transform="matrix(1.9515901,0,0,1.9515901,51.592327,-390.43714)" />
     <path
-       style="opacity:1;fill:#afda8c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.66468275;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.45490196"
-       d="m 10.917476,30.534958 a 8.096611,8.1340885 0 0 0 -8.0969335,8.133164 8.096611,8.1340885 0 0 0 8.0969335,8.134614 8.096611,8.1340885 0 0 0 8.095483,-8.134614 8.096611,8.1340885 0 0 0 -8.095483,-8.133164 z m -3.7086189,2.89994 H 15 V 39 H 7.2088571 Z M 4.9828164,40.11302 H 17.226041 l -6.121613,5.565102 z"
-       id="path875"
-       inkscape:connector-curvature="0" />
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7,27 v 3 H 5 v 3 h 12 v -3 h -2 v -3 z"
+       id="path3764"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.55172414;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3 4 L 3 21 L 19 21 L 19 4 L 17 4 L 17 7 L 5 7 L 5 4 L 3 4 z M 5 9 L 10 9 L 10 10 L 5 10 L 5 9 z M 5 11 L 9 11 L 9 12 L 5 12 L 5 11 z M 10 11 L 15 11 L 15 12 L 10 12 L 10 11 z "
+       transform="translate(0,26)"
+       id="path4571" />
   </g>
 </svg>

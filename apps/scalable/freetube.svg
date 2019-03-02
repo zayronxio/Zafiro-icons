@@ -11,7 +11,7 @@
    width="48"
    version="1.1"
    id="svg14"
-   sodipodi:docname="youtube-dl.svg"
+   sodipodi:docname="freetube.svg"
    inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata20">
@@ -70,14 +70,10 @@
      stroke="#cc635a"
      stroke-width="2"
      id="circle6" />
-  <g
-     fill="#cc635a"
-     id="g12">
-    <path
-       d="m31.5 30h3v3.6h-3z"
-       id="path8" />
-    <path
-       d="m30 34.5h6l-3 3.9z"
-       id="path10" />
-  </g>
+  <path
+     style="fill:#cc635a;fill-opacity:0.99215686;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.99215686"
+     d="m 30,38 h 2 v -3 h 2 v -2 h -2 v -1 h 4 v -2 h -6 z"
+     id="path24"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccccccccc" />
 </svg>
