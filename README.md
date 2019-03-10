@@ -26,5 +26,5 @@ from opendesktop you will have 8 different versions available,
 
 ## Preview
 
-![Preview](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/preview.png)
+![Preview](https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/previews/demo-general2018.png)
 
