@@ -11,10 +11,11 @@ If you like my job and you want to help me, invite me to a cafe. Here is a link 
 
 ### Download and testing
 
-   - For testing you can clone the repository or download directly. Clone using your terminal.
+download from opendesktop the latest weekly version, or from releases to have the last major update (less constant).
 
-   - In a Terminal run: 
-    `git clone https://github.com/zayronxio/Zafiro-icons.git`
+from opendesktop you will have 8 different versions available,
+
+[<img src="https://i.imgur.com/SWAXdFr.png">](https://www.opendesktop.org/p/1209330/#files-panel) [<img src="https://i.imgur.com/gxX8nJ0.png">](https://github.com/zayronxio/Zafiro-icons/releases) 
 
 ### Installing the icons
 
