@@ -16,7 +16,7 @@
    id="svg4431"
    sodipodi:version="0.32"
    inkscape:version="0.92.4 5da689c313, 2019-01-14"
-   sodipodi:docname="notification-audio-volume-high.svg"
+   sodipodi:docname="audio-volume-high.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata19">
@@ -26,12 +26,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1031"
+     inkscape:window-height="1028"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -43,9 +43,9 @@
      pagecolor="#b1b1b1"
      id="base"
      showgrid="true"
-     inkscape:zoom="29.344931"
-     inkscape:cx="6.4034834"
-     inkscape:cy="10.436595"
+     inkscape:zoom="7.3362328"
+     inkscape:cx="10.543892"
+     inkscape:cy="9.5165042"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:current-layer="svg4431"
@@ -121,29 +121,29 @@
   </defs>
   <path
      style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.04083443px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 0.5,7.5 v 7 h 2 l 3,2 v -11 l -3,2 z"
+     d="m 0,13 v 6 h 2 l 3,2.5 v -11 L 2,13 Z"
      id="path1368"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccc" />
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.40062666;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.43006993"
      id="rect1370"
-     width="2.5"
-     height="6"
-     x="8"
-     y="8" />
+     width="3"
+     height="11"
+     x="7.5"
+     y="10.5" />
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.76731825;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.43006993"
      id="rect1372"
-     width="2.5"
-     height="12"
-     x="12.5"
-     y="5" />
+     width="3"
+     height="15.5"
+     x="13"
+     y="6" />
   <rect
      style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.18873835;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.43006993"
      id="rect1374"
-     width="2.5"
-     height="19"
-     x="17"
-     y="1.5" />
+     width="3"
+     height="21"
+     x="18.5"
+     y="0.5" />
 </svg>
