@@ -5,7 +5,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.1-dev (1:0.92.0+devel+202004260039+9758c7a)"
-   sodipodi:docname="discord-tray-speaking.svg"
+   sodipodi:docname="discord-tray-deafened.svg"
    id="svg9"
    version="1.1"
    height="16"
@@ -43,9 +43,7 @@
   </style>
   </defs>
   <path
-     sodipodi:nodetypes="ccccccccccccccccccscsssssscs"
-     id="path5"
-     d="M 6,2 1,4 v 9 l 4,2 1,-1 -2,-2 4,1 4,-1 -2,2 1,1 4,-2 V 4 L 10,2 v 1 l 3,2 H 3 L 6,3 Z M 5.5,8 C 6.3381317,8 7.0149989,8.668 7,9.5 7,10.332 6.3381317,11 5.5,11 4.6766671,11 4,10.332 4,9.5 4,8.668 4.6619684,8 5.5,8 Z m 5,0 C 11.338032,8 12,8.668 12,9.5 12,10.332 11.323333,11 10.5,11 9.661868,11 9,10.332 9,9.5 8.9850011,8.668 9.661868,8 10.5,8 Z"
-     class="ColorScheme-Text"
-     style="fill:#7097c1;fill-opacity:1" />
+     d="M 6 2 L 1 4 L 1 13 L 5 15 L 6 14 L 4 12 L 7 12.75 L 7 9.5 C 7 10.332 6.3381317 11 5.5 11 C 4.6766671 11 4 10.332 4 9.5 C 4 8.668 4.6619684 8 5.5 8 C 6.3381317 8 7.0149989 8.668 7 9.5 L 7 5 L 3 5 L 6 3 L 6 2 z M 10 2 L 10 3 L 13 5 L 8.6269531 5 L 8.6269531 12.84375 L 12 12 L 10 14 L 11 15 L 15 13 L 15 4 L 10 2 z M 10.5 8 C 11.338032 8 12 8.668 12 9.5 C 12 10.332 11.323333 11 10.5 11 C 9.661868 11 9 10.332 9 9.5 C 8.9850011 8.668 9.661868 8 10.5 8 z "
+     style="fill:#000000;fill-opacity:0.60000002"
+     id="path5" />
 </svg>

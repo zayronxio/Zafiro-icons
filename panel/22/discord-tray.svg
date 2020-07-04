@@ -8,7 +8,7 @@
    height="16"
    version="1.1"
    id="svg9"
-   sodipodi:docname="discord-tray-speaking.svg"
+   sodipodi:docname="discord-tray.svg"
    inkscape:version="1.1-dev (1:0.92.0+devel+202004260039+9758c7a)">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -43,7 +43,7 @@
   </style>
   </defs>
   <path
-     style="fill:#7097c1;fill-opacity:1"
+     style="fill:#ffffff;fill-opacity:0.60000002"
      class="ColorScheme-Text"
      d="M 6,2 1,4 v 9 l 4,2 1,-1 -2,-2 4,1 4,-1 -2,2 1,1 4,-2 V 4 L 10,2 v 1 l 3,2 H 3 L 6,3 Z M 5.5,8 C 6.3381317,8 7.0149989,8.668 7,9.5 7,10.332 6.3381317,11 5.5,11 4.6766671,11 4,10.332 4,9.5 4,8.668 4.6619684,8 5.5,8 Z m 5,0 C 11.338032,8 12,8.668 12,9.5 12,10.332 11.323333,11 10.5,11 9.661868,11 9,10.332 9,9.5 8.9850011,8.668 9.661868,8 10.5,8 Z"
      id="path5"
