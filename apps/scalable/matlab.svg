@@ -78,7 +78,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -94,7 +94,7 @@
        r="22.695999" />
     <g
        id="g940"
-       transform="matrix(1.1084246,0,0,1.1084246,-2.7742995,-2.5336971)">
+       transform="matrix(0.88937187,0,0,0.88937187,2.5169791,2.7100324)">
       <path
          id="path901"
          style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157"
@@ -107,7 +107,7 @@
          sodipodi:nodetypes="ccccsc" />
       <path
          id="path905"
-         style="fill:#ffffff;fill-opacity:0.60713089;stroke:none;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157"
+         style="fill:#ffffff;fill-opacity:0.607131;stroke:none;stroke-width:1.88976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.992157"
          d="m 7.2851562,26.128906 c 2.0950521,1.492188 4.1901038,2.984375 6.2851558,4.476563 2.363732,-1.254885 4.270116,-3.224236 5.792969,-5.398438 -1.119791,-0.876302 -2.239583,-1.752604 -3.359375,-2.628906 -2.90625,1.183594 -5.8125,2.367188 -8.7187498,3.550781 z" />
     </g>
   </g>
