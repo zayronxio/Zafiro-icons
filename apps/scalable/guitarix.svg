@@ -11,7 +11,7 @@
    width="48"
    version="1.1"
    id="svg14"
-   sodipodi:docname="elisa.svg"
+   sodipodi:docname="guitarix.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
      id="metadata20">
@@ -55,7 +55,7 @@
      x="2"
      y="3"
      id="rect2"
-     style="fill:#60646c;fill-opacity:1" />
+     style="fill:#606c6c;fill-opacity:1" />
   <rect
      style="fill:#f9f9f9;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
      id="rect935"
@@ -110,7 +110,7 @@
       </g>
     </g>
     <rect
-       style="fill:#ea7867;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
+       style="fill:#aec86e;fill-opacity:1;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke markers fill"
        id="rect903"
        width="16.100399"
        height="9.9124947"
