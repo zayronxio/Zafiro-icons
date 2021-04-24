@@ -12,8 +12,8 @@
    viewBox="0 0 4.2333332 4.2333335"
    version="1.1"
    id="svg1011"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="telegram-panel.svg">
+   sodipodi:docname="telegram-attention-panel.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <defs
      id="defs1005" />
   <sodipodi:namedview
@@ -23,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="4.8098172"
-     inkscape:cy="7.1940048"
+     inkscape:zoom="15.839192"
+     inkscape:cx="-10.804656"
+     inkscape:cy="11.031762"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -56,5 +56,11 @@
        id="path837"
        style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.00763834px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="M 3.576808,0.88917249 0.47219891,2.0641925 1.4023001,2.3485415 1.7042529,3.3176101 2.2011474,2.8412587 3.0599971,3.4924563 Z M 3.1102132,1.3498146 1.8201557,2.5454971 1.7572439,3.0647247 c 0,0 -0.2386118,-0.739605 -0.2518264,-0.761282 z" />
+    <circle
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.4;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path1651"
+       cx="0.85433388"
+       cy="2.8380299"
+       r="0.4269926" />
   </g>
 </svg>
