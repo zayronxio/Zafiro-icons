@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,7 +12,7 @@
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="folder-mega.svg">
   <defs
      id="defs3905">
@@ -56,10 +54,11 @@
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1026"
+     inkscape:window-height="1031"
      inkscape:window-x="0"
-     inkscape:window-y="28"
-     inkscape:window-maximized="1">
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid821"
@@ -96,7 +95,7 @@
          width="52.591755" />
     </g>
     <path
-       style="opacity:1;fill:#d97a7f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:132.28346252;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94007491"
+       style="opacity:1;fill:#e1a184;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:132.28346252;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94007491"
        d="m 2.25,10.5 h 15 c 0.4155,0 0.48601,0.429142 0.75,0.75 l 28.385287,34.5 c 0.263989,0.320858 -0.3345,0.75 -0.75,0.75 H 2.25 C 1.8345,46.5 1.5,46.1655 1.5,45.75 v -34.5 c 0,-0.4155 0.3345,-0.75 0.75,-0.75 z"
        id="rect36"
        inkscape:connector-curvature="0"
@@ -108,16 +107,16 @@
        height="31.49999"
        width="44.999989"
        id="rect843"
-       style="opacity:1;fill:#d97a7f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:132.28346252;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94007491" />
+       style="opacity:1;fill:#e1a184;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:132.28346252;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.94007491" />
     <path
-       style="fill:#2a282e;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       style="fill:#5c606a;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
        d="M 1.5,25.5 H 18 L 21,18 h 25.5 v 28.5 h -45 z"
        id="path847"
        inkscape:connector-curvature="0" />
     <path
        id="path32-3"
        d="m 24,27 c -3.866,0 -7,3.134 -7,7 0,3.866 3.134,7 7,7 3.866,0 7,-3.134 7,-7 0,-3.866 -3.134,-7 -7,-7 z m -4,3 h 2 v 0 0 l 2,3 2,-3 h 2 v 8 h -2 v -4 l -2,2 -2,-2 v 4 h -2 z"
-       style="fill:#d97a7f;fill-opacity:1"
+       style="fill:#e1a184;fill-opacity:1"
        inkscape:connector-curvature="0" />
   </g>
 </svg>
