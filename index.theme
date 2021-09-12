@@ -9,7 +9,7 @@ PanelDefault=22
 PanelSizes=22
 
 # Directory list
-Directories=apps/scalable,apps/22,apps/48,apps/16,places/16-A,places/24,places/48,status/22,devices/48,devices/22,mimetypes/48,panel/22,panel/16,actions/16,actions/22-Dark,actions/48,categories/22,emblems/16,
+Directories=apps/scalable,apps/22,apps/48,apps/16,places/16-A,places/24,places/48,status/22,devices/48,devices/22,mimetypes/48,panel/22,panel/16,actions/16,actions/22-Dark,actions/48,categories/22-Dark,emblems/16,
 
 [apps/scalable]
 Size=48
@@ -107,7 +107,7 @@ Size=48
 Context=Actions
 Type=Scalable
 
-[categories/22]
+[categories/22-Dark]
 Size=22
 Context=Categories
 MinSize=8
