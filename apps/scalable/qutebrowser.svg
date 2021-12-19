@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.1-dev (1:0.92.0+devel+202004260039+9758c7a)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="qutebrowser.svg"
    id="svg81"
    height="48"
@@ -29,14 +29,14 @@
   <sodipodi:namedview
      inkscape:current-layer="svg81"
      inkscape:window-maximized="1"
-     inkscape:window-y="30"
+     inkscape:window-y="24"
      inkscape:window-x="0"
      inkscape:cy="22.610315"
      inkscape:cx="62.213002"
      inkscape:zoom="8.0000004"
      showgrid="false"
      id="namedview83"
-     inkscape:window-height="1024"
+     inkscape:window-height="1031"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -45,7 +45,8 @@
      objecttolerance="10"
      borderopacity="1"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
   <defs
      id="defs11">
     <path
@@ -108,7 +109,7 @@
      inkscape:connector-curvature="0"
      id="qutebrowser-letterform-classical-clone-3"
      d="M 284.64949,126.86008 244.437,150.84407 v 61.34227 l 40.21249,-23.984 z m -69.90412,5.36582 c -36.87168,-0.20243 -106.72021,10.44621 -107.02961,89.51557 -0.37531,95.91795 71.50521,74.01925 87.79657,64.33948 31.32425,-18.4976 63.59655,-38.06753 93.1588,-55.38819 16.09901,-9.41716 46.24355,-15.54795 46.24355,28.68551 0,44.23347 -32.73064,57.94868 -50.26519,57.00086 V 241.67638 L 244.437,265.40933 v 85.25022 c 2.16589,0.44429 10.36294,1.52322 21.65019,1.58519 36.87168,0.2024 106.72026,-10.44622 107.02966,-89.51557 0.37531,-95.91796 -71.50522,-74.01926 -87.79663,-64.33948 -31.32425,18.49765 -63.59649,38.06757 -93.15874,55.38818 -16.09901,9.41716 -46.24355,15.54797 -46.24355,-28.6855 0,-44.23348 32.73064,-57.94867 50.26514,-57.00087 v 74.70275 l 40.21254,-23.73296 v -85.25021 c -2.16589,-0.44427 -10.363,-1.52321 -21.65024,-1.58518 z m 21.65024,140.0584 -40.21254,23.98399 v 61.34227 l 40.21254,-23.984 z"
-     style="display:inline;fill:#76b3e4;fill-opacity:1;fill-rule:evenodd;stroke-width:0.469143">
+     style="display:inline;fill:#6d91cf;fill-opacity:1;fill-rule:evenodd;stroke-width:0.469143">
     <title
        id="title4559-6">qutebrowser-letterform-classical</title>
   </path>
