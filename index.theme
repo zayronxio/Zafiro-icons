@@ -3,7 +3,7 @@ Name=Zafiro-icons-Dark
 Comment=icon theme flat for gnome,xfce and lxde
 Comment[es]=tema de iconos planos y sobrios.
 Comment[zh_TW]=清醒和平面图标的主题
-Inherits=hicolor,Surfn,Numix,Numix-Circle-dark,Numix-Circle,breeze-dark,gnome-dark
+Inherits=hicolor,Surfn,Numix,Numix-Circle,Numix-Circle,breeze-dark,gnome-dark
 
 PanelDefault=22
 PanelSizes=22
@@ -92,7 +92,7 @@ MinSize=8
 MaxSize=21
 Type=Scalable
 
-[actions/16]
+[actions/16-Dark]
 Size=16
 Context=Actions
 Type=Fixed
