@@ -159,7 +159,8 @@ if [ -d "$HOME/.icons" ]
                    cp LICENSE.md $HOME/.icons/Zafiro-Icons-Light
                    cd
                    rm -r $HOME/.icons/Zafiro-icons-master
-                   rm $HOME/master.zip
+                   rm $HOME/.icons/master.zip
+                   rm -r  $HOME/.icons/github.com
                 else
                  echo "no fue posible descomprimir archivo"
               fi 
@@ -187,7 +188,8 @@ if [ -d "$HOME/.icons" ]
                  cp LICENSE.md $HOME/.icons/Zafiro-Icons-Light
                  cd
                  rm -r $HOME/.icons/Zafiro-icons-master
-                 rm $HOME/master.zip
+                 rm $HOME/.icons/master.zip
+                 rm -r  $HOME/.icons/github.com
             else
               echo "no fue posible descomprimir archivo"
           fi
