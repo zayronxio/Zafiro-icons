@@ -9,7 +9,7 @@ if [ -d "$HOME/.icons" ]
    #accediendo a directorio de trabajo
     cd $HOME/.icons
      #descarga y descompresion de archivos
-       wget -r https://github.com/zayronxio/Zafiro-icons/archive/refs/heads/master.zip
+       wget -N https://github.com/zayronxio/Zafiro-icons/archive/refs/heads/master.zip
          if [ -f "$HOME/.icons/master.zip" ]
            then 
              if [ -f "$HOME/.icons/Zafiro-icons-master" ]
