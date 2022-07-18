@@ -25,13 +25,13 @@ from opendesktop you will have 8 different versions available,
 
 ### installation with bash script
   
-######requirements
+###### requirements
    - jzip or unrar
    - wget *(the vast majority of distros already include it)*
 
 paste this command in your terminal for the installation.
 
->  wget https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/Install-Zafiro-Icons.sh && chmod +x Install-Zafiro-Icons.sh && bash ./Install-Zafiro-Icons.sh
+>  wget -N https://raw.githubusercontent.com/zayronxio/Zafiro-icons/master/Install-Zafiro-Icons.sh && chmod +x Install-Zafiro-Icons.sh && bash ./Install-Zafiro-Icons.sh
 
 ## Preview
 
