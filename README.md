@@ -26,7 +26,7 @@ from opendesktop you will have 8 different versions available,
 ### installation with bash script
   
 ###### requirements
-   - jzip or unrar
+   - gzip or unrar
    - wget *(the vast majority of distros already include it)*
 
 paste this command in your terminal for the installation.
