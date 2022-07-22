@@ -10,9 +10,7 @@ if [ -d "$HOME/.local/share/icons" ]
     cd $HOME/.local/share/icons
      #descarga y descompresion de archivos
        wget -N https://github.com/zayronxio/Zafiro-icons/archive/refs/heads/master.zip
-         if [ -f "$HOME/.local/share/icons" ]
-           then 
-             if [ -f "$HOME/.local/share/icons/Zafiro-icons-master" ]
+          if [ -f "$HOME/.local/share/icons/Zafiro-icons-master" ]
                then
                 rm -r $HOME/.local/share/icons/Zafiro-icons-master
            else
@@ -20,9 +18,10 @@ if [ -d "$HOME/.local/share/icons" ]
                unzip master.zip
           fi
             #eliminando versiones anteriores
+            sleep 3s
               if [ -d "$HOME/.local/share/icons/Zafiro-icons-master" ]
                 then
-                  cd Zafiro-icons-master
+                  cd $HOME/.local/share/icons/Zafiro-icons-master
                   if [ -d "$HOME/.local/share/icons/Zafiro-Icons" ] 
                 then
                   rm -r $HOME/.local/share/icons/Zafiro-Icons
@@ -164,19 +163,17 @@ if [ -d "$HOME/.local/share/icons" ]
                 else
                  echo "no fue posible descomprimir archivo"
               fi 
-           else 
-             echo "no fue posible descargar el archivo"
-         fi
-  else
+           else
     mkdir $HOME/.local/share/icons
      cd $HOME/.local/share/icons
       wget https://github.com/zayronxio/Zafiro-icons/archive/refs/heads/master.zip
        if [ -f "$HOME/.local/share/icons/master.zip" ]
         then 
          unzip master.zip
-          if [ -f "$HOME/.local/share/icons/Zafiro-icons-master" ]
+          sleep 3s
+          if [ -d "$HOME/.local/share/icons/Zafiro-icons-master" ]
             then
-             cd Zafiro-icons-master
+             cd $HOME/.local/share/icons/Zafiro-icons-master
                #Copiando directorios
                  cp -r -a Dark $HOME/.local/share/icons/Zafiro-Icons-Dark
                  cp -r -a Light $HOME/.local/share/icons/Zafiro-Icons-Light
