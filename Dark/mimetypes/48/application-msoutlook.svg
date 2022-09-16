@@ -8,7 +8,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="application-x-executable.svg"
+   sodipodi:docname="application-msoutlook.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="11.490485"
-     inkscape:cy="59.220192"
+     inkscape:zoom="15.839192"
+     inkscape:cx="2.7463522"
+     inkscape:cy="24.780305"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1032"
+     inkscape:window-height="1031"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="0">
@@ -60,7 +60,7 @@
      transform="translate(0,-284.3)">
     <path
        id="rect817"
-       style="opacity:1;fill:#434c5e;stroke-width:0.292055;stroke-linecap:round;stroke-opacity:0.880282;fill-opacity:1"
+       style="opacity:1;fill:#8fbcbb;stroke-width:0.292055;stroke-linecap:round;stroke-opacity:0.880282;fill-opacity:1"
        d="m 2.2171529,285.09375 h 8.0011111 c 0.202248,0 0.365069,0.16282 0.365069,0.36507 v 10.64694 c 0,0.20225 -0.162821,0.36507 -0.365069,0.36507 H 2.2171529 c -0.2022486,0 -0.3650696,-0.16282 -0.3650696,-0.36507 v -10.64694 c 0,-0.20225 0.162821,-0.36507 0.3650696,-0.36507 z" />
     <path
        style="fill:#ffffff;fill-opacity:0.23529412;fill-rule:evenodd;stroke:none;stroke-width:0.07301383px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -68,31 +68,10 @@
        id="path819"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
-    <g
-       id="g2108"
-       transform="translate(-0.39688434,-0.29116013)">
-      <rect
-         style="opacity:0.692052;fill:#ffffff;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
-         id="rect113"
-         width="3.7041667"
-         height="3.7041667"
-         x="209.28116"
-         y="199.92671"
-         transform="rotate(45)" />
-      <rect
-         style="opacity:0.692052;fill:#ffffff;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
-         id="rect1244"
-         width="3.7041667"
-         height="3.7041667"
-         x="290.12082"
-         y="-8.4666758"
-         transform="rotate(90)" />
-      <circle
-         style="opacity:1;fill:#434c5e;fill-opacity:1;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
-         id="path1268"
-         cx="6.6145926"
-         cy="291.9729"
-         r="1.0583333" />
-    </g>
+    <path
+       d="m 6.217708,288.07633 -2.7059621,2.10464 h 5.4119246 z m 2.7059625,2.10464 -2.7059625,1.20265 2.1046373,1.50331 -4.8105994,-2.54663 v 3.14795 h 5.4119246 z"
+       fill="#ffffff"
+       id="path4"
+       style="stroke-width:0.200441" />
   </g>
 </svg>

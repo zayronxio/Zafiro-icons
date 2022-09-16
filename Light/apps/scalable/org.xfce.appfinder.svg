@@ -1,1 +1,49 @@
-appfinder.svg
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="org.xfce.appfinder.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="16.375"
+     inkscape:cx="12.183206"
+     inkscape:cy="24.030534"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     id="circle2"
+     transform="matrix(1.72140702696 0 0 1.72140725788 -17.2289093957 -30.06939350282)"
+     style="opacity:0.99;fill:#8fbfc0;fill-opacity:1"
+     d="M 37.173613,31.534513 A 13.232998,13.232998 0 0 1 23.940615,44.767511 13.232998,13.232998 0 0 1 10.707617,31.534513 13.232998,13.232998 0 0 1 23.940615,18.301516 13.232998,13.232998 0 0 1 37.173613,31.534513 Z" />
+  <path
+     id="path924"
+     style="fill:#ffffff;stroke-width:6.48349;stroke-linecap:round;stroke-linejoin:round"
+     d="m 14.610437,14.853782 a 9.820686,9.820686 0 0 0 1e-6,13.88935 9.820686,9.820686 0 0 0 12.150418,1.353556 l 6.090213,7.606449 3.079853,-1.52887 1.528872,-3.079855 -7.606449,-6.090213 a 9.820686,9.820686 0 0 0 -1.355136,-12.148838 9.820686,9.820686 0 0 0 -13.887772,-0.0016 z" />
+  <ellipse
+     style="fill:#8fbfc0;stroke-width:6.63459;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="path1133"
+     cx="21.41741"
+     cy="21.784775"
+     rx="6.7935295"
+     ry="7.1047759" />
+</svg>
