@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 48 48"
+   id="svg23"
+   sodipodi:docname="citrix-receiver.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="14.729167"
+     inkscape:cx="23.966054"
+     inkscape:cy="23.966054"
+     inkscape:window-width="1280"
+     inkscape:window-height="1365"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs7">
+    <linearGradient
+       id="bg"
+       x2="0"
+       y1="1"
+       y2="47"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#5a5a5a"
+         offset="0"
+         id="stop2" />
+      <stop
+         style="stop-color:#505050"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <circle
+     cx="24"
+     cy="24"
+     r="23"
+     style="fill:#4c566a"
+     id="circle15" />
+  <path
+     d="m 24,10 a 1.5,1.5,0,0,1,0,3 11,11,0,1,0,11,11 1.5,1.5,0,0,1,3,0 14,14,0,1,1,-14,-14zm 0,6 a 1.5,1.5,0,0,1,0,3 5,5,0,1,0,5,5 1.5,1.5,0,0,1,3,0 8,8,0,1,1,-8,-8zm 0,6 a 2,2,0,0,1,0,4 2,2,0,0,1,0,-4z"
+     style="fill:#d8dee9"
+     id="path19" />
+</svg>

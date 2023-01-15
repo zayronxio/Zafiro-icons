@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="linuxmint-logo-filled-leaf-badge.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10">
+    <linearGradient
+       id="linearGradient830"
+       x1="263.23"
+       x2="262.87"
+       y1="291.69"
+       y2="375.27"
+       gradientTransform="matrix(.20328 0 0 .20328 -45.043 -59.295)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#8fbcbb"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#97b67c"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient832"
+       x1="496.49"
+       x2="497.19"
+       y1="788.6"
+       y2="938.95"
+       gradientTransform="matrix(.10099 0 0 .10099 -41.847 -78.709)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#8fbcbb"
+         offset="0"
+         id="stop2-3" />
+      <stop
+         stop-color="#a3be8c"
+         offset="1"
+         id="stop4-6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient840-3"
+       x1="178.15"
+       x2="177.8"
+       y1="47.734"
+       y2="371.39"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#d8dee9"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#eceff4"
+         offset="1"
+         id="stop9" />
+    </linearGradient>
+    <filter
+       id="filter1134"
+       x="-0.072321429"
+       y="-0.077884615"
+       width="1.1446429"
+       height="1.1557692"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="6.75"
+         id="feGaussianBlur12" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.1875"
+     inkscape:cx="12.030534"
+     inkscape:cy="21.862595"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     id="path2"
+     style="stroke-width:1.15035;fill:#4c566a;fill-opacity:1"
+     d="M 23.804688 1.3046875 A 22.696228 22.696232 0 0 0 1.1074219 24 A 22.696228 22.696232 0 0 0 23.804688 46.695312 A 22.696228 22.696232 0 0 0 46.5 24 A 22.696228 22.696232 0 0 0 23.804688 1.3046875 z " />
+  <g
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     id="g31"
+     transform="matrix(1.8421978,0,0,1.8421978,7.5203403,9.1115961)">
+    <rect
+       x="0.92603999"
+       y="0.92603999"
+       width="15.081"
+       height="15.081"
+       rx="3"
+       ry="3"
+       fill="none"
+       stroke-width="1.2274"
+       id="rect17" />
+    <rect
+       x="0.01215"
+       y="0.0060174"
+       width="16.924"
+       height="16.927"
+       fill="none"
+       opacity="0.15"
+       stroke-width="1.052"
+       id="rect19" />
+    <path
+       d="m 0,0.87637 v 4.8532 h 1.9965 v 0.974 l 0.00257,3.8199 c 0,3.1459 2.7327,5.5332 5.8815,5.5332 h 9.0524 v -9.6021 c 0,-3.1488 -2.7297,-5.5328 -5.8813,-5.5328 L 8.41827,0.91585 Z"
+       fill="url(#linearGradient832)"
+       id="path21"
+       style="fill:#a3be8c;fill-opacity:1" />
+    <g
+       transform="matrix(0.046395,0,0,0.046395,0.68427,-1.1837)"
+       fill="url(#linearGradient840-3)"
+       id="g29"
+       style="fill:#e5e9f0;fill-opacity:1">
+      <path
+         d="m 80,104 v 144 c 0,35.157 28.843,64 64,64 h 96 c 35.157,0 64,-28.843 64,-64 v -80 c 0,-26.32 -21.68,-48 -48,-48 -12.296,0 -23.467,4.8602 -32,12.586 C 215.4668,124.8603 204.296,120 192,120 c -26.32,0 -48,21.68 -48,48 v 80 h 32 v -80 c 0,-9.0261 6.9739,-16 16,-16 9.0261,0 16,6.9739 16,16 v 80 h 32 v -80 c 0,-9.0261 6.9739,-16 16,-16 9.0261,0 16,6.9739 16,16 v 80 c 0,17.863 -14.137,32 -32,32 h -96 c -17.863,0 -32,-14.137 -32,-32 V 104 Z"
+         color="#000000"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         fill="url(#linearGradient840-3)"
+         image-rendering="auto"
+         shape-rendering="auto"
+         solid-color="#000000"
+         style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#e5e9f0;fill-opacity:1"
+         id="path27" />
+    </g>
+  </g>
+</svg>

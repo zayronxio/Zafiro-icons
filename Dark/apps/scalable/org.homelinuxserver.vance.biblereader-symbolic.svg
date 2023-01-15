@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   width="48"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="org.homelinuxserver.vance.biblereader-symbolic.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="6.6880518"
+     inkscape:cx="12.933512"
+     inkscape:cy="36.03441"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:document-rotation="0"
+     inkscape:pagecheckerboard="0" />
+  <path
+     id="path2"
+     style="fill:#88c0d0;fill-opacity:1;stroke-width:1.15035"
+     d="M 23.804688 1.3046875 A 22.696228 22.696232 0 0 0 1.1074219 24 A 22.696228 22.696232 0 0 0 23.804688 46.695312 A 22.696228 22.696232 0 0 0 46.5 24 A 22.696228 22.696232 0 0 0 23.804688 1.3046875 z " />
+  <g
+     fill="#ffffff"
+     id="g14"
+     transform="translate(-0.48536137,1.3470309)">
+    <path
+       d="M 11.25,6 A 1.25,1.25 0 0 0 10,7.25 1.25,1.25 0 0 0 11.25,8.5 1.25,1.25 0 0 0 12.5,7.25 1.25,1.25 0 0 0 11.25,6 Z m 1.775391,3.0800781 a 1.25,1.25 0 0 0 -1.25,1.2499999 1.25,1.25 0 0 0 1.25,1.25 1.25,1.25 0 0 0 1.25,-1.25 1.25,1.25 0 0 0 -1.25,-1.2499999 z m 1.777343,3.0820309 a 1.25,1.25 0 0 0 -1.25,1.25 1.25,1.25 0 0 0 1.25,1.25 1.25,1.25 0 0 0 1.25,-1.25 1.25,1.25 0 0 0 -1.25,-1.25 z m 1.775391,3.080079 a 1.25,1.25 0 0 0 -1.25,1.25 1.25,1.25 0 0 0 1.25,1.25 1.25,1.25 0 0 0 1.25,-1.25 1.25,1.25 0 0 0 -1.25,-1.25 z m 1.777344,3.082031 a 1.25,1.25 0 0 0 -1.25,1.25 1.25,1.25 0 0 0 1.25,1.25 1.25,1.25 0 0 0 1.25,-1.25 1.25,1.25 0 0 0 -1.25,-1.25 z m 1.77539,3.080078 a 1.25,1.25 0 0 0 -1.25,1.25 1.25,1.25 0 0 0 1.25,1.25 1.25,1.25 0 0 0 1.25,-1.25 1.25,1.25 0 0 0 -1.25,-1.25 z m 1.775391,3.082031 a 1.25,1.25 0 0 0 -1.25,1.25 1.25,1.25 0 0 0 1.25,1.25 1.25,1.25 0 0 0 1.25,-1.25 1.25,1.25 0 0 0 -1.25,-1.25 z"
+       id="path6" />
+    <path
+       d="m 37.105469,6 a 1.25,1.25 0 0 1 1.25,1.25 1.25,1.25 0 0 1 -1.25,1.25 1.25,1.25 0 0 1 -1.25,-1.25 1.25,1.25 0 0 1 1.25,-1.25 z m -1.775391,3.0800781 a 1.25,1.25 0 0 1 1.25,1.2499999 1.25,1.25 0 0 1 -1.25,1.25 1.25,1.25 0 0 1 -1.25,-1.25 1.25,1.25 0 0 1 1.25,-1.2499999 z m -1.777343,3.0820309 a 1.25,1.25 0 0 1 1.25,1.25 1.25,1.25 0 0 1 -1.25,1.25 1.25,1.25 0 0 1 -1.25,-1.25 1.25,1.25 0 0 1 1.25,-1.25 z m -1.775391,3.080079 a 1.25,1.25 0 0 1 1.25,1.25 1.25,1.25 0 0 1 -1.25,1.25 1.25,1.25 0 0 1 -1.25,-1.25 1.25,1.25 0 0 1 1.25,-1.25 z M 30,18.324219 a 1.25,1.25 0 0 1 1.25,1.25 1.25,1.25 0 0 1 -1.25,1.25 1.25,1.25 0 0 1 -1.25,-1.25 1.25,1.25 0 0 1 1.25,-1.25 z m -1.77539,3.080078 a 1.25,1.25 0 0 1 1.25,1.25 1.25,1.25 0 0 1 -1.25,1.25 1.25,1.25 0 0 1 -1.25,-1.25 1.25,1.25 0 0 1 1.25,-1.25 z m -1.775391,3.082031 a 1.25,1.25 0 0 1 1.25,1.25 1.25,1.25 0 0 1 -1.25,1.25 1.25,1.25 0 0 1 -1.25,-1.25 1.25,1.25 0 0 1 1.25,-1.25 z"
+       id="path8" />
+    <path
+       d="M 22.5,27.5 C 24,26.5 24,25 22.5,24 H 26 c -1.5,1 -1.5,2.5 0,3.594919 V 29 43 h -3.5 z"
+       id="path10" />
+    <path
+       d="M 17.5,30.5 V 33 H 31 v -2.5 z"
+       id="path12" />
+  </g>
+</svg>

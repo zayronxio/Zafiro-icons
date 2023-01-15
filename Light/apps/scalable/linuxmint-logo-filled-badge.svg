@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg20"
+   width="64"
+   height="64"
+   version="1.1"
+   viewBox="0 0 16.933 16.933"
+   sodipodi:docname="linuxmint-logo-filled-badge.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="11.046875"
+     inkscape:cx="31.45686"
+     inkscape:cy="31.909477"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <defs
+     id="defs10">
+    <linearGradient
+       id="linearGradient1062"
+       x1="47.077255"
+       x2="46.15699"
+       y1="203.89368"
+       y2="296.6377"
+       gradientTransform="matrix(.1818146 0 0 .1818146 4.7437134e-7 -37.065933)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop1056"
+         style="stop-color:#8fbcbb"
+         offset="0" />
+      <stop
+         id="stop1058"
+         style="stop-color:#a3be8c"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient830">
+      <stop
+         id="stop826"
+         style="stop-color:#d8dee9"
+         offset="0" />
+      <stop
+         id="stop828"
+         style="stop-color:#eceff4"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient892"
+       x1="196.842"
+       x2="193.14655"
+       y1="31.418701"
+       y2="383.39557"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient830" />
+    <filter
+       id="filter934"
+       x="-0.072321429"
+       y="-0.077884615"
+       width="1.1446429"
+       height="1.1557692"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur936"
+         stdDeviation="6.75" />
+    </filter>
+  </defs>
+  <g
+     id="g18"
+     stroke-linecap="round"
+     stroke-linejoin="round">
+    <rect
+       id="rect14"
+       x="0.92603999"
+       y="0.92603999"
+       width="15.081"
+       height="15.081"
+       rx="3"
+       ry="3"
+       fill="url(#linearGradient1340)"
+       stroke-width="1.2274"
+       style="fill:none" />
+    <rect
+       id="rect16"
+       x="0.01215"
+       y="0.0060174"
+       width="16.924"
+       height="16.927"
+       fill="none"
+       opacity="0.15"
+       stroke-width="1.052" />
+    <path
+       id="path1374-6"
+       style="fill:#85be8f;fill-opacity:1"
+       d="M 16.933001,8.4665003 A 8.4665003,8.4665003 0 0 1 8.4665003,16.933001 8.4665003,8.4665003 0 0 1 0,8.4665003 8.4665003,8.4665003 0 0 1 8.4665003,0 8.4665003,8.4665003 0 0 1 16.933001,8.4665003 Z" />
+    <g
+       id="layer3-7"
+       transform="matrix(0.04810511,0,0,0.04810511,-0.76968112,-1.5393629)"
+       style="fill:#e5e9f0;fill-opacity:1;stroke:#ffffff">
+      <path
+         id="path4193-5"
+         d="m 80,104 v 144 c 0,35.15671 28.84329,64 64,64 h 96 c 35.15671,0 64,-28.84329 64,-64 v -80 c 0,-26.32015 -21.67985,-48 -48,-48 -12.29591,0 -23.46684,4.8602 -32,12.58594 C 215.46684,124.8602 204.29591,120 192,120 c -26.32015,0 -48,21.67985 -48,48 v 80 h 32 v -80 c 0,-9.02607 6.97393,-16 16,-16 9.02607,0 16,6.97393 16,16 v 80 h 32 v -80 c 0,-9.02607 6.97393,-16 16,-16 9.02607,0 16,6.97393 16,16 v 80 c 0,17.86263 -14.13737,32 -32,32 h -96 c -17.86263,0 -32,-14.13737 -32,-32 V 104 Z"
+         style="color:#000000;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;dominant-baseline:auto;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000000;fill:#ffffff;fill-opacity:1;stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto" />
+    </g>
+  </g>
+</svg>
