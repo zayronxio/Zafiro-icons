@@ -6,7 +6,7 @@
    height="48"
    id="svg3903"
    version="1.1"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="xfsm-suspend.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -221,18 +221,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.0000002"
-     inkscape:cx="24.571428"
-     inkscape:cy="37.499999"
+     inkscape:cx="18.142857"
+     inkscape:cy="37.571427"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
-     inkscape:window-width="1861"
-     inkscape:window-height="1047"
-     inkscape:window-x="59"
-     inkscape:window-y="33"
+     inkscape:window-width="1873"
+     inkscape:window-height="1165"
+     inkscape:window-x="47"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid831"
@@ -315,14 +317,14 @@
        id="layer4-7"
        transform="matrix(1.9515901,0,0,1.9515901,51.592327,-390.43714)" />
     <circle
-       style="fill:none;fill-opacity:1;stroke:#ededed;stroke-width:4.52655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#303030;stroke-width:4.52655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path885"
        cx="-24.365562"
        cy="24.211412"
        r="18.541449"
        transform="rotate(-90)" />
     <path
-       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:1.13163px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#313131;fill-opacity:1;stroke:none;stroke-width:1.13163px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 20.493175,14.374818 h 3.394913 v 11.882197 h 8.487283 v 3.394913 H 20.493175 Z"
        id="path1048"
        inkscape:connector-curvature="0" />

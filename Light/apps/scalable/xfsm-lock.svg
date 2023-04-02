@@ -5,8 +5,8 @@
    viewBox="0 0 24 24"
    version="1.1"
    id="svg4"
-   sodipodi:docname="top-lock-icon.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="xfsm-lock.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,16 +23,18 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="15.9375"
-     inkscape:cx="2.854902"
-     inkscape:cy="11.639216"
-     inkscape:window-width="1861"
-     inkscape:window-height="1047"
-     inkscape:window-x="59"
-     inkscape:window-y="33"
+     inkscape:cx="0"
+     inkscape:cy="11.670588"
+     inkscape:window-width="1873"
+     inkscape:window-height="1165"
+     inkscape:window-x="47"
+     inkscape:window-y="35"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4" />
+     inkscape:current-layer="svg4"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <path
      d="M 17.311119,9.8928159 V 6.5882301 c 0,-2.7370234 -2.29947,-4.956879 -5.134654,-4.956879 -2.8351844,0 -5.1346533,2.2198556 -5.1346533,4.956879 V 9.8928159 H 4.474485 V 21.458867 H 19.878446 V 9.8928159 Z m -8.5577561,0 V 6.5882301 c 0,-1.8224792 1.5352601,-3.3045861 3.4231021,-3.3045861 1.887841,0 3.423103,1.4821069 3.423103,3.3045861 v 3.3045858 z"
      id="path2"
-     style="fill:#e6e6e6;stroke-width:0.840831" />
+     style="fill:#3b3b3b;stroke-width:0.840831;fill-opacity:1" />
 </svg>
