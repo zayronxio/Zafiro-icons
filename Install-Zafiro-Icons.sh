@@ -186,7 +186,7 @@ if [ -d "$HOME/.local/share/icons" ]
                  cd
                  rm -r $HOME/.local/share/icons/Zafiro-icons-master
                  rm $HOME/.local/share/icons/master.zip
-                 rm -r  $HOME/.local/share/icons/github.com
+                 rm -r  $HOME/.local/share/icons/Install-Zafiro-Icons.sh
             else
               echo "no fue posible descomprimir archivo"
           fi
